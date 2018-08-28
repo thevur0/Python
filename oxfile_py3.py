@@ -11,7 +11,7 @@ class DealwithFIle(object):
 			byData = fp.read()
 			strSave = ''
 			ilen = len(byData)
-			limitlen = 512
+			limitlen = 1024*1024*4
 			if ilen>limitlen:
 				ilen = limitlen
 
@@ -39,7 +39,6 @@ def main():
 		dwFile.modify()
 		pass
 	elif os.path.isdir(sys.argv[1]) and os.path.isdir(sys.argv[2]):
-		print(sys.argv[1])
 		for root, dirs, files in os.walk(sys.argv[1]):
 			for onefile in files:  
 				savePath = os.path.join(sys.argv[2],os.path.basename(onefile))
