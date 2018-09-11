@@ -14,7 +14,9 @@ class SvnDump:
 	def Dump(self):
 		if self.oldversion == self.curversion:
 			return self.oldversion
-		command = 'svnadmin dump {}/{} --incremental -r {}:{}> {}\{}_{}_{}.dump'.format(self.svnrepositories,self.name,self.oldversion,self.curversion,self.dumppath,self.name,self.oldversion,self.curversion)
+		starversion = int(self.oldversion) + 1
+		starversion = min(starversion,int(self.curversion))
+		command = 'svnadmin dump {}/{} --incremental -r {}:{}> {}\{}_{}_{}.dump'.format(self.svnrepositories,self.name,starversion,self.curversion,self.dumppath,self.name,self.oldversion,self.curversion)
 		os.system(command)
 		return self.curversion
 
@@ -37,9 +39,9 @@ def DoDump():
 
 def main():
 	DoDump()
-	##while(True):
-		
-		##time.sleep(60)
+	while(True):
+		DoDump()
+		time.sleep(10)
 		##pass
 
 if __name__ == '__main__':

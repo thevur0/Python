@@ -7,9 +7,16 @@ class SvnLoad:
 		self.file = dpfile
 
 	def Load(self):
-		print(self.file)
-		command = 'svnadmin load {}/{} < {}'.format(self.svnrepositories,self.name,self.file)
-		os.system(command)
+
+		command = "svnlook youngest {}/{}".format(self.svnrepositories,self.name)
+		result = os.popen(command)
+		res = result.read()
+		curversion = res.splitlines()[0]
+		strFileName = self.name + '_' + curversion + '_'
+		findres = os.path.basename(self.file).find(strFileName)
+		if findres == 0:
+			command = 'svnadmin load {}/{} < {}'.format(self.svnrepositories,self.name,self.file)
+			os.system(command)
 
 
 def DoLoad():
@@ -20,19 +27,15 @@ def DoLoad():
 		for root, dirs, files in os.walk(dpPath):
 			for onefile in files:
 				ext = os.path.splitext(onefile)[1]
-				dumpfile = os.path.join(dpPath ,onefile)
 				if ext == ".dump":
+					dumpfile = os.path.join(dpPath ,onefile)
 					svn = SvnLoad(svnrepositories,name,dumpfile)
 					svn.Load()
-					os.remove(dumpfile)
-					
-				
-
+					#os.remove(dumpfile)
 def main():
-	DoLoad()
-	##while(True):
-		##time.sleep(60)
-		##pass
+	while(True):
+		DoLoad()
+		time.sleep(10)
 
 if __name__ == '__main__':
 	main()
