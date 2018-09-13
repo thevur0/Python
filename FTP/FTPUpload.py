@@ -1,28 +1,60 @@
-import sys,io,ftplib
+import sys,io,ftplib,os
 
 class SVNUpload:
-    def __init__(self,host,user,password,localpath):
+    def __init__(self,host,username,password,localpath):
         self.host = host
-        self.user = user
+        self.username = username
         self.password = password
         self.localpath = localpath
-    def Upload():
-        f = ftplib.FTP(host)  # 实例化FTP对象
-        f.login(username, password)  # 登录
-        pwd_path = f.pwd()
-        print("FTP当前路径:", pwd_path)
 
-    def ftp_upload():
-        #'''以二进制形式上传文件'''
-        file_remote = 'ftp_upload.txt'
-        file_local = 'D:\\test_data\\ftp_upload.txt'
+    def Upload(self):
+        ftp = ftplib.FTP(self.host)  # 实例化FTP对象
+        ftp.login(self.username, self.password)  # 登录
+        print(ftp.getwelcome())
+
+        filelist = os.listdir(self.localpath)
+        for onefile in filelist:
+            self.WalkDir(ftp,os.path.join(self.localpath,onefile))
+
+        ftp.quit()
+
+    def WalkDir(self,ftp,curPath):
+        if os.path.isfile(curPath):
+            self.UploadFile(ftp,curPath)
+        elif os.path.isdir(curPath):
+            dirname = os.path.basename(curPath)
+            ftpcurdir = ftp.pwd()
+            try:
+                ftp.mkd(dirname)
+            except:
+                1
+            finally:
+                ftp.cwd(dirname)
+                filelist = os.listdir(curPath)
+                for onefile in filelist:
+                    self.WalkDir(ftp,os.path.join(curPath,onefile))
+                ftp.cwd(ftpcurdir)    
+            
+
+    def UploadFile(self,ftp,curFile):
+
+        basename = os.path.basename(curFile)
+        ftpflies = ftp.nlst()
+        savename = basename
+        i = 0
+        while savename in ftpflies:
+            i+=1
+            savename = basename + str(i)
+            
         bufsize = 1024  # 设置缓冲器大小
-        fp = open(file_local, 'rb')
-        f.storbinary('STOR ' + file_remote, fp, bufsize)
+        fp = open(curFile, 'rb')
+        ftp.storbinary('STOR ' + savename, fp, bufsize)
         fp.close()
+        
 
 def main():
-    svnload = SVNUpload("127.0.0.1:21","test","test123",)
+    #svnload = SVNUpload("127.0.0.1","user","password","E:\Test")
+    svnload = SVNUpload(sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4])
     svnload.Upload()
 
 if __name__ == '__main__':

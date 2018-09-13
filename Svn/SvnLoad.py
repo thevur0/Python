@@ -28,7 +28,7 @@ def DoLoad():
 			for onefile in files:
 				ext = os.path.splitext(onefile)[1]
 				if ext == ".dump":
-					dumpfile = os.path.join(dpPath ,onefile)
+					dumpfile = os.path.join(root ,onefile)
 					svn = SvnLoad(svnrepositories,name,dumpfile)
 					svn.Load()
 					#os.remove(dumpfile)
