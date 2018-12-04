@@ -5,7 +5,8 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "${file}"
+            "program": "${file}",
+            "args": ["F:/Solution/Python/PMPString/QHa4.txt","F:/Solution/Python/PMPString/test.txt"]
         },
         {
             "name": "Python: Attach",
