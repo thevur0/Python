@@ -1,0 +1,3114 @@
+1.During the final month of a contract, key project stakeholders question whether the
+vendor is achieving its contract objectives .What tool or technique should the project
+manager use?
+A.Claims administration
+B.Performance reporting
+C.Contract change control system
+D.Inspections and audits
+1.在合同的最后一个月，关键项目干系人质疑卖方是否能完成其合同目标。项目经理使用的是
+什么工具或技术？
+A.索赔管理
+B.绩效报告
+C.合同变更控制系统
+D.检查和审计
+2. The table includes the calculated time periods in weeks for the design, build, and
+test components of a development project using applicable probability scenarios. What is
+the build component’s activity duration when calculated using the program evaluation and
+review technique （PERT）?
+Optimistic Most Likely Pessimistic
+Design 10 8 6
+Build 20 18 To
+Test 18 13 11
+A.14 weeks
+B.15 weeks
+C.16 weeks
+D.17 weeks
+2.此表包括适用的概率情景，以周为单位计算设计、构造和测试一个开发项目组件所需的工期。
+使用计划评审技术（PERT）计算时，构造组件活动的工期为几周？
+乐观 最可能悲观
+设计10 8 6
+构造20 18 10
+测试18 13 11
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A.14周
+B.15周
+C.16周
+D.17周
+3. A project has the following work performance information:
+Cost performance index （CPI）=1.3
+Schedule performance index （SPI）=0.6
+Budget at completion=estimate at completion
+What should the project manager do first?
+A. Take no actions as the CPI is greater than 1
+B. Investigate the schedule variance for estimating errors
+C. Perform a PERT analysis on the completed work
+D. Reduce costs until the CPI is equal to 1
+3.一个项目具有以下工作绩效信息：
+成本绩效指数（CPI）=1.3
+进度绩效指数（SPI）=0.6
+完工预算=完工估算
+项目经理首先应该做什么？
+A.不釆取任何行动，因为CPI 大于1
+B.调查估算错误的进度偏差
+C.对已完成的工作执行PERT 分析
+D.降低成本直至CPI等于1
+4. Midway through a project, a new project manager is assigned. Several project team
+members indicate that they are not aware of the project’s progress
+Which of the following documents should the project manager reference to address the
+issue?
+A. Performance report
+B. Communications management plan
+C. Project management plan
+D. Stakeholder management plan
+4.在一个项目中途，任命了一名新项目经理。几名项目团队成员表示他们并不了解项目的进展
+情况。项目经理应该查阅下列哪一份文件来解决这个问题？
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A.绩效报告
+B.沟通管理计划
+C.项目管理计划
+D. 相关方参与计划
+5. A project manager in a functional organization assigns a resource to an activity.
+The resource is committed at 100 percent utilization and the schedule performance index
+（SPI） for lat activity is 0.79.
+What should the project manager do next?
+A. Recalculate the schedule based on the resource’s performance
+B. Identify corrective actions with the line manager
+C. Reward the resource for an excellent performance
+D. Update the progress report based on actual progress
+5.处于职能型组织的项目经理为一项活动分配了一名资源。该资源全身心为项目工作，而该项
+活动的进度绩效指数（SPI）为0.79。
+项目经理下一步应该怎么做？
+A.根据资源的绩效重新计算进度
+B.与直线经理一起确定纠正措施
+C.因为其优异的绩效表现奖励该资源
+D.根据实际进展情况更新进度报告
+6. A company considers a complex organizational intiative. What shuld the management
+team do next to support the organizational initiative?
+A. Evaluate the business needs, alternatives, and feasibility of new products or
+services.
+B. Develop the scope management plan to identify the requirements
+C. Develop the project charter to approve the project.
+D. Create a stakeholder register to idenfiy people and organizations impacted by the
+project
+6.一家公司正在考虑一项复杂的公司活动。为支持组织活动，管理团队下一步应该怎么做？
+A.评估新产品或服务的业务需求，可选方案以及可行性
+B.制订范围管理计划，识别需求
+C.制定项目章程批准项目
+D.创建干系人登记册，识别受项目影响的人员和组织
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+7. At a stakeholder meeting, it is identified that the stakeholder group should include
+a community based organization （CBO）. The project manager is concerned that there will
+be a lack f executive support for the inclusion of the CBO.
+What should the project manager do first?
+A. Send the CBO periodic updates
+B. Initiate perform integrated change control process
+C. Inform executives that the CBO will be included
+D. Expand regular project status communications to include the CBO
+7.在会议上，确定团体应包含一个以社区为基础的组织（CBO）。项目经理担心包含CBO将缺少
+执行者的支持。
+项目经理首先应该做什么？
+A.向CBO 定期发送更新情况
+B.开始执行整体变更控制过程
+C.通知执行者，将包含CBO
+D.扩大常规项目状态沟通范围，包含CBO
+8. A project manager is managing a US$5 million fixed-price project that has had many
+changes to the scope. As a part of the business requirements session, the business architect
+identifies a change that will involve 100 hours of additional requirements analysis.
+To document the change, the business architect should create which of the following?
+A. Project document updates, work performance information, and project management plan
+updates
+B. Project document updates, change request, and scope baseline
+C. Change request, team performance assessments, and project management plan updates
+D. Organizational process assets updates, communications management plan, and change
+request
+8.项目经理正在管理一个价值500 万美元的固定总价项目，该项目对范围做了许多变更。作为
+业务需求会的组成部分，业务架构师确定了一项变更，该变更将涉及100 小时的额外需求分析。
+为了记录这项变更，业务架构师应创建下列哪一项？
+A.项目文件更新，工作绩效信息和项目管理计划更新
+B.项目文件更新，变更请求和范围基准
+C.变更请求，团队绩效评估和项目管理计划更新
+D.组织过程资产更新，沟通管理计划和变更请求
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+9. What is the purpose of a bidder conference when soliciting responses to a request
+for proposal （RFP）?
+A. Allows the vendors to provide preliminary conceptual designs
+B. Ensures prospective vendors have a common understanding of the procurement process
+C. Allows the buyer to disqualify vendors from the bid process
+D. Provides a forum for negotiation with prospective vendors
+9.征求建议邀请书（RFP）答复时，投标人会议的目的是什么？
+A.允许供应商提供初步概念性设计
+B.确保潜在供应商对采购过程达成共识
+C.允许买方取消供应商参与投标过程的资格
+D.提供一个论坛，与潜在供应商谈判
+10. A new project manager assigned during a project’s execution phase must meet with
+the project stakeholders. What should the project manager do to determine who the key
+stakeholders are?
+A. Review the stakeholder register and the available project date
+B. Request the project charter
+C. Refer to the risk register
+D. Use interviewing techniques
+10.一名在项目执行阶段任命的新项目经理必须与项目干系人开会。若要确定哪些干系人是关键
+干系人，项目经理应该怎么做？
+A.审查以及可用的项目数据
+B.请求项目章程
+C.查阅风险登记册
+D.使用访谈技术
+11. If the duration of activity B is changed to 10 days, and the duration of activity
+G is changed to 9 days, what is the critical path?
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A. A-D-E-H
+B. A-F-G-E-H
+C. A-F-G-H
+D. A-B-C-E-H
+11.如果活动B的持续时间改为10 天，而活动G 的持续时间改为9 天，则下列哪一项是关键路
+径？
+A. A-D-E-H
+B. A-F-G-E-H
+C. A-F-G-H
+D. A-B-C-E-H
+12. After project implementation, the project management office （PMO）inquires whether
+the project’s business objective was achieved. To address the question, what should the
+project manager do?
+A. Conduct a customer satisfaction survey
+B. Review the project charter with the project sponsor
+C. Conduct a variance analysis
+D. Conduct a post-project review
+10
+A
+7
+B
+5
+C
+14
+D
+2
+E
+8
+H
+7
+F
+6
+G
+10
+A
+7
+B
+5
+C
+14
+D
+2
+E
+8
+H
+7
+F
+6
+G
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+12.项目实施后，项目管理办公室（PMO）询问是否已实现项目的商业目标。若要解决这个问题，
+项目经理应该怎么做？
+A.开展客户满意度调查
+B.与项目发起人一起审查项目章程
+C.执行偏差分析
+D.进行项目后评价
+13. A client is suring a company for failing to complete a project two yea g management
+office （PMO） confirms with the project manager that the client s p approved the project
+as complete.
+Which of the following processes, if done correctly, should have helped avert the
+situation?
+A. Define Scope
+B. Develop Project Charter
+C. Close project or phase
+D. Manager Stakeholder Engagement
+13.一名客户因一家公司两年前未能完成一个项目而起诉该公司。项目管理办公室（PMO）与项
+目经理确认该客户的运营团队批准项目完成。
+下列哪一个过程，如果做得正确的话，有助于避免这种情况？
+A.定义范围
+B.制定项目章程
+C.项目收尾或阶段收尾
+D.管理干系人的参与
+14. Internal conflicts among some team members could potentially delay the project,
+What should the project manager do next?
+A. Address the conflicts early and privately
+B. Delay the conflict to assess if it will affect the project at a later stage
+C. Escalate the conflict to the functional managers
+D. Consult the human resource management plan and take corrective actions
+14.一些团队成员的内部冲突可能延迟项目。项目经理下一步该怎么做？
+A.提前并私下解决冲突
+B.延迟冲突，评估其是否将会在后期影响项目
+C.将冲突上报给职能经理
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D.查看资源管理计划并采取纠正措施
+15. After confirming the availability of human resources and obtaining teams for project
+assignments, the project manager discovers that the resources will not sufficiently meet
+the project schedule. The project manager meets with a functional manager who agrees to
+make additional resources available for the duration of the project.
+What tool or technique does the project manager use?
+A. Negotiation
+B. Acquisition
+C. Pre-assignment ,
+D. Colocation
+15.确认人力资源可用性并获得执行项目任务的团队后，项目经理发现资源不足以满足项目进度
+计划。项目经理与职能经理开会，职能经理同意为项目工期添加可用资源。
+项目经理是使用的是什么工具或技术？
+A.谈判
+B.招募
+C.预分派
+D.集中办公
+16.A company is successful with implementing technology projects.To ensure new project
+managers benefit from these best practices. How would existing project managers share their
+success?
+A. Communications management process
+B. Project team meetings
+C. Lessons learned knowledge base
+D. Project closeout report
+16.某公司在执行技术项目方面非常成功。为确保新的项目经理从这些最佳实践中获益。现有
+的项目经理应该如何分享他们的成功经验?
+A. 沟通管理过程
+B. 项目团队会议
+C. 经验教训知识库
+D. 项目收尾报告
+17. Towards the end of a large infrastructure project the tension rises, and conflicts
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+between team members occur more frequently. This affects the productivity of the team, and
+takes the focus away from completing the scope. To restore order the project manager pulls
+two people off the team and replaces them with others.
+What strategy does the project manager use?
+A. Compromising
+B. Avoiding
+C. Forcing
+D. Exchanging
+17. 在一个大型基础设施项目快结束时,紧张状态上升,团队成员之间越来越经常发生冲突。这
+影响到团队生产效率,关注的重点是完成工作范围。为了恢复秩序,项目经理开除了两名团队成员,
+并让其他人代替他们。项目经理使用的是哪种策略?
+A. 妥协
+B. 回避
+C. 强迫
+D. 交换
+18. A project manager learns that a stakeholder wants the project’s final deliverables
+two months before the original deadline. What should the project manager do next?
+A. Manage stakeholder expectations according to the communications management plan
+B. Perform the integrated change control process by documenting the stakeholder’s
+request and assembling a change control board （CCB）
+C. Deny the request
+D. Reduce schedule two months by crashing the project schedule
+18.项目经理得知干系人希望比原始期限提前两个月交付最终可交付成果。项目经理下一步应该
+怎么做？
+A.按照沟通管理计划管理干系人的期望
+B.通过记录的请求并组建变更控制委员会（CCB）来执行整体变更控制过程
+C.拒绝请求
+D.通过对项目进度计划赶工，减少两个月工期
+19. Before finalizing the project management plan, a project manager considers
+alternative ways to document relationships among project activities, What tool should the
+project to outline the sequence of activities?
+A. Work breakdown structure
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+B. RACI chart
+C. Activity lists
+D. Project network diagram
+19.在最终确定项目管理计划之前，项目经理考虑记录项目活动之间关系的替代方案。项目经理
+应使用什么工具描述活动顺序？
+A. 工作分解结构
+B. RACI 图
+C. 活动清单
+D. 项目网络图
+20. A company wants to purchase a customer date system that can be used globally. Company
+procedures require that data from the various countries remain separate.
+Where should the project manager capture this information?
+A. Project scope baseline
+B. Requirements management plan
+C. Requirements documentation
+D. Project management plan
+20.一家公司希望采购能在全球使用的客户数据系统。公司程序要求来自不同国家的数据均应保
+持独立。项目经理可以从哪里找到这个信息？
+A.项目范围基准
+B.需求管理计划
+C.需求文档
+D.项目管理计划
+21. The management team identifies a new risk that could potentially delay to a
+deliverable by six weeks. In response to this, what should the project manager do first?
+A. Quantity the impact
+B. Analyze the variance
+C. Update the risk register
+D. Implement corrective actions
+21.管理团队识别可能会延迟某个可交付成果六周时间的新风险。为应对这种情况，项目经理应
+该首先做什么？
+A. 量化影响
+B. 分析偏差
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+C. 更新风险登记册
+D. 执行纠正措施
+22. A project manager discovers that there is a defect in the product deliverable and
+wants to identify the root cause. Which tool or technique should the project manager use?
+A. Ishikawa diagram
+B. Pareto diagram
+C. Variance and trend analysis
+D. Histogram
+22.项目经理发现产品可交付成果中存在缺陷，并希望识别根本原因。项目经理应采用哪种工具
+或方法？
+A.石川图
+B.帕累托图
+C.偏差和趋势分析
+D.直方图
+23. A project to launch an innovative product into a new market begins. There is an
+opportunity to guarantee increased sales above projected figures. To achieve this outcome,
+a specialized organization is contracted to manage the product’s discribution.
+This is an example of which type of risk response strategy?
+A. Accept
+B. Exploit
+C. Share
+D. Enhance
+23.一个向新市场推出创新产品的项目开始了。这是一个保证增长的销售额高于预期数字时机
+会。为实现这个结果，聘请了一个专业组织来管理产品销售。
+这属于哪一种风险应对策略的实例？
+A.接受
+B.开拓
+C.分享
+D.提高
+24. A project is dependent on an item procured from a vendor. However, the vendor does
+not have this item in stock. The project manager plans to obtain a purchase order for another
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+approved vendor.
+What should the project manager do next?
+A. Update the schedule according to the new vendor’s purchase order lead-time
+B. Inform the customer immediately about the change and request approval
+C. Evaluate the impact on budget or schedule contingency reserves
+D. Request the procurement department cancels the original vendor’s contract
+24.一个项目取决于一个从供应商采购的一件商品。但是，该供应商库存里没有这件商品。项目
+经理计划从另一个合格供应商处获得采购订单。
+项目经理下一步该怎么做？
+A.按照新供应商采购订单的交付周期更新进度计划
+B.立即向客户通知该变更并请求批准
+C.评估对预算或进度应急储备的影响
+D.要求采购部门取消原始供应商的合同
+25. During a review of a manufacturer’s insurance documents, a project manager
+discovers that le project site is not covered in the event of a natural disaster. Which
+of the following should protect the company’s interests?
+A. Updating the risk management plan for further reference
+B. Informing the project sponsor and renegotiating with the insurance provider
+C. Renegotiating with the insurance to transfer the financial risk
+D. Adding a risk register item and outing the implications
+25.审查制造商的保险文件时，项目经理发现并未投保项目现场的自然灾害保险。下列哪一项将
+会保护公司的利益？
+A. 更新风险管理计划，以供后续参考
+B. 通知项目发起人，并与保险公司重新协商
+C. 与保险公司重新协商，转移财产风险
+D. 将其作为一项风险添加进风险登记册，并概述其影响
+26. A truck carrying critical products for a project is in a traffic accident and the
+products are destroyed. The project manager should refer to which of the following for a
+contingency plan?
+A. Risk reassessment
+B. Quantitative risk analysis
+C. Risk register
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D. Contingency reserves
+26.一辆运送项目关键产品的卡车发生交通事故，产品被销毁。项目经理应参阅下列哪一份文件
+获得应急计划？
+A.风险再评估
+B.定量风险分析
+C.风险登记册
+D.应急储备
+27. A project is in the execution phase when a resource suddenly leaves the company,
+What should the project manager do first?
+A. Request a replacement for the resource
+B. Check the risk register
+C. Update the staff release plan
+D. Review the resource management plan
+27.一个项目处于执行阶段，这时一名资源突然离开公司。项目经理首先应该做什么？
+A.请求资源替代
+B.检查风险登记册
+C.更新人员解散计划
+D.审查资源管理计划
+28. To officially close a project, what should the project manager do?
+A. Close out the risk register
+B. Validate scope
+C. Update the project management plan
+D. Close out procurements
+28.正式收尾项目时，项目经理应该怎么做?
+A.关闭风险登记册
+B.核实范围
+C.更新项目管理计划
+D.结束采购工作
+29. A project manager is planning a large, multidisciplinary project. The project team
+and stakeholders are located in several geographic locations.
+To ensure effective participation by all project stakeholders and team members, which
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+of the following should the project manager prepare?
+A. Work breakdown structure （WBS）
+B. Communications management plan
+C. Risk register
+D. Quality assurance plan
+29.项目经理正在规划一个大型的多学科项目。项目团队和位于多个地理位置。为确保所有项目
+和团队成员的有效参与，项目经理应准备下列哪一项？
+A.工作分解结构（WBS）
+B.沟通管理计划
+C.风险登记册
+D.质量保证计划
+30. A project manager acquires a technical team for a project. The client requires that
+30 percent the technical team consists of local resources. The project manager realizes
+that a majority of the candidates do not possess the required skills.
+What should the project manager do to resolve this issue?
+A. Change the client-specified requirements for the technical team
+B. Transfer the primary tasks to a foreign team and use a local team for the remaining
+work
+C. Hire local resources and provide training for the required skills
+D. Hire only resources that have the required skills
+30.项目经理为项目组建了一支技术团队。客户要求30%的技术团队由当地资源组成。但项目经
+理发现大部分候选人不具备必要技能。
+若要解决这个问题，项目经理应该怎么做？
+A.为技术团队更改客户的特殊要求
+B.将主要任务转移给外国团队，并使用当地团队完成剩余工作
+C.雇佣当地资源，并提供必要技能培训
+D.仅雇佣拥有必要技能的资源
+31. A project manager must develop a quality management plan for a new deliverable.
+What tool should the project manager use?
+A. Forecasting
+B. Performance reviews
+C. What if scenarios
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D. Flowcharting
+31.项目经理必须为一个新的可交付成果制定质量管理计划。项目经理应该使用什么工具？
+A.预测
+B.绩效审查
+C.假设情景
+D.流程图
+32. A project sponsor refuses to pay the final invoice after receipt of the project’s
+deliverables. Which of the following proactive initiatives should be taken to avoid this
+situation in the future?
+A. Perform user acceptance testing according to the project scope’s satisfaction
+criteria
+B. Measure the stakeholders’ satisfaction
+C. Obtain formal approval of the project’s final product
+D. Meet with the project sponsor to review project deliverables
+32.收到项目可交付成果后，项目发起人拒绝支付最终发票。为避免将来发生这种情况，应采取
+下列哪一项积极措施？
+A. 按照项目范围的合格标准，执行用户验收测试
+B. 衡量项目干系人的满意度
+C. 获得项目最终产品的正式批准
+D. 与项目发起人开会，审查项目可交付成果
+33. While acquiring resources for a strategic project, the project manager discovers
+that a key resource will not be available to perform a project task. Assuming the task on
+the critical path, what strategy should be used to mitigate this issue.
+A. Attempt to reduce the project scope
+B. Obtain permission to work on the weekends
+C. Extend the project’s end-date and resolve the issue at a later project stage
+D. Assign a less-skilled resource on the project and increase the task duration
+33.在为一个战略项目招募资源时，项目经理发现一名关键资源将不能执行项目任务。假设该任
+务的计划不处于关键路径上，应使用什么战略来减轻这个问题？
+A. 尝试减少项目范围|
+B. 获得在周末工作的许可
+C. 延长项目结束日期并在项目后期解决该问题
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D. 为项目分配一个技能略差的资源，并增加任务持续时间
+34. A project manager works on a project to retain a customer, s business. The quality
+team measures quality and identifies areas where the project fails to meet the requirements
+and specifications.
+Which of the following processes is the project’s quality team applying?
+A. Perform Quality Assurance
+B. Control Quality
+C. Statistical and Variance Analyses
+D. Plan Quality Management
+34.项目经理正在从事一个保留客户业务的项目。质量团队测量质量，确定了项目未能满足要求
+和技术规范的一些方面。
+项目质量团队应用的是下列哪一个过程？
+A. 实施质量保证
+B. 控制质量
+C. 统计和偏差分析
+D. 计划质量管理
+35. Prior to executing the next project task, several mitigations must be completed.
+The risk owner assures the project manager that the mitigations are complete and that work
+can begin on the next task.
+What should the project manager do next?
+A. Update the risk register with the risk outcomes and assess the residual risk
+B. Update the lessons learned from the project risk mitigations
+C. Close the risks in the risk register and release the associated reserves
+D. Authorize work on the next task and assess the residual risk
+35.在执行下一个项目任务之前，必须完成多项风险减轻活动。风险负责人保证项目经理风险减
+轻工作已完成，且该工作可以在下一个任务开始。
+项目经理下一步应该怎么做？
+A.更新带有风险结果的风险登记册，并评估残余风险
+B.更新项目风险减轻活动产生的经验教训
+C.关闭风险登记册中的风险，并释放相关储备
+D 批准下一个任务的工作，并评估残余风险
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+36. A project team member is exceeding their authority, causing confusion among other
+team members. The project manager realizes that if roles and responsibilities had been
+better defined, confusion might have been avoided.
+Which document should be improved to better define roles and responsibilities?
+A. Communications management plan
+B Stakeholder management plan
+C. Human resource management plan
+D. Work breakdown structure （WBS）
+36.一名项目团队成员超出其职权，导致其他团队成员之间的困惑。项目经理意识到如果之前更
+好地定义角色和责任，就可能避免这个困惑。
+若要更好地定义角色和责任，应改进哪一份文件？
+A.沟通管理计划
+B.干系人管理计划
+C.资源管理计划
+D.工作分解结构（WBS）
+37. After completing the first few phases of a project, the project manager releases
+deliverables the client. The client requests changes to parts of the deliverables that were
+accepted. These changes will cause a schedule delay if integrated into future phases.
+What should the project manager do?
+A. Adjust the schedule by adding resources to reflect the client’s change request
+B. Change the dependency relationship between tasks to allow two tasks to overlap
+C. Request that the client initiate a change request using the project’s change control
+process
+D. Establish a task using management reserves
+37.在完成项目的前几个阶段后，项目经理将可交付成果交付给客户。客户请求对已验收的部分
+可交付成果进行变更。如果将这些变更结合进未来阶段中，将导致进度延期。
+项目经理应该怎么做？
+A.通过添加资源调整进度计划，反映客户的变更请求
+B.变更任务之间的依赖关系，允许两个任务重叠
+C.请求客户使用项目的变更控制过程提出变更请求
+D.使用管理储备创建一项任务
+38. A company has a large project and wants to solicit formal bids. The project manager
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+issues request for proposal （RFP） but receives no proposals.
+What should the project manager do next?
+A. Review the mandatory requirements
+B. Send the RFP to additional vendors
+C. Recommend termination of the project
+D. Invite the vendors to have additional discussion
+38.公司拥有一个大型项目，希望进行正式招标。项目经理签发了一份建议邀请书（RFP），但
+未收到任何建议书。
+项目经理下一步应该怎么做？
+A. 审查强制性要求
+B. 将RFP发送给别的供应商
+C. 建议终止项目
+D. 邀请供应商另行讨论
+39. A project manager worked with stakeholders and sponsor to clarify project scope,
+refine costs and define the timelines. The project manager is ready to conduct a kick-off
+meeting to formally start the project.
+The project manager is in which of the following process groups?
+A. Initiating
+B. Executing
+C. Monitoring & Controlling
+D. Planning
+39.项目经理与干系人和发起人一起澄清项目范围、完善成本并定义时间线。项目经理准备召开
+项目启动大会，正式启动项目。
+项目经理处于下列哪一个过程组？
+A.启动
+B.执行
+C.监控
+D.规划
+40. After approval of a project’s scope and specifications, the customer asks for the
+addition of a few minor deliverables to increase the final product’s value. What should
+the manager do next?
+A. Reject the change unless the customer agrees to increase the project budget
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+B. Assess the impact of the change and issue a change request
+C. Ask the project team to confirm if these are minor changes and, if so, implement
+then
+D. Implement the changes to strengthen the relationship with the customer
+40.批准项目范围和技术规范之后，客户要求增加一些次要可交付成果，提升最终产品的价值。
+项目经理下一步应该怎么做？
+A.拒绝变更，除非客户同意增加项目预算
+B.评估变更的影响，并签发变更请求
+C.要求项目团队确认是否属于次要变更，如果是，则实施这些变更
+D.实施变更，加强与客户的关系
+41. Due to an increased rate of natural disasters along a flood plain, a warehouse
+director wants to initiate a project to review and update the disaster management plan.
+Which of the following should the project manager use to identify the project risks?
+A. Risk probability and impact assessment
+B. Brainstorming
+C. Risk rating and ranking
+D. Flowchart
+41.由于洪泛平原沿线发生自然灾害的频率增加，仓库主任希望启动一个项目，审查和更新灾难
+管理计划。项目经理应该使用下列哪一项来识别项目风险？
+A.风险概率与影响评估
+B.头脑风暴
+C.风险评级和排序
+D.流程图
+42. During a project’s planning phase, the project manager of project A learns that
+specific equipment is required for an activity. It is the project manager of project B’s
+responsibility to acquire and install this equipment.
+What type of dependency reflects the relationship between the activity and the required
+equipment?
+A. Discretionary internal
+B. Discretionary external
+C. Mandatory internal
+D. Mandatory external
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+42.在项目规划阶段，项目A 的项目经理了解到某项活动需要使用特殊设备。而采购安装该设备
+是项目B 项目经理的责任。
+哪一种依赖关系类型反映了这项活动与所需设备之间的关系？
+A.选择性内部依赖关系
+B.选择性外部依赖关系
+C.强制性内部依赖关系
+D.强制性外部依赖关系
+43. A key stakeholder informs the project manager that critical project deliverables
+are not included in the scope baseline. The key stakeholder provides further details
+regarding the additional project deliverables.
+According to the scope management plan, what should the project manager do next?
+A. Monitor and Control Project Work
+B. Perform Integrated Change Control
+C. Validate Scope
+D. Control Scope
+43.一名关键干系人通知项目经理关键项目可交付成果不包含在范围基准中。关键干系人提供额
+外项目可交付成果的进一步详情。
+根据范围管理计划，项目经理下一步应该怎么做？
+A.监控项目工作
+B.执行整体变更控制
+C.核实范围
+D.控制范围
+44. A project manager replaces a recently fired project manager on a global,
+multicultural project. After analyzing delays in project deliverables, the project manager
+decides to investigate hidden issues.
+What should the project manager do next?
+A. Re-establish project ground rules and recognition and rewards among project team
+members
+B. Counsel non-performing resources and reconfirm commitment with all project team
+members.
+C. Identify project team members’ skills and redistribute tasks according to
+individual expertise
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D. Conduct a project performance appraisal of all project team members
+44.项目经理最近替换了一个全球多文化项目最近聘用的项目经理。在分析项目可交付成果的延
+期之后，项目经理决定调查隐藏的问题。
+项目经理下一步应该怎么做？
+A. 重新制定项目基本规则，并认可和奖励项目团队成员
+B. 指导表现不佳的资源，并重新确认所有项目团队成员的承诺
+C. 确定项目团队成员的技能，并按照个人专业知识重新分配任务
+D. 对所有项目团队成员开展项目绩效评价，
+45. During a project meeting, a team member identifies and submits a risk to the project
+manager. After an evaluation of the risk, the project team determines the impact,
+probability, and a risk response.
+Before performing these activities, what process must be completed?
+A. Plan Risk Management
+B. Identify Risks
+C. Perform Quantitative Risk Analysis
+D. Plan Risk Responses
+45.在项目会议上，一名团队成员识别到一个风险，并将其提交给项目经理。在评估完风险后，
+项目团队确定了影响、发生概率和风险应对措施。
+执行这些活动之前，必须完成哪个过程？
+A. 制定风险管理计划
+B. 识别风险
+C. 实施定量风险分析
+D. 制定风险应对计划
+46. As a project approaches its first critical milestone, the schedule is constrained.
+During a discussion regarding a minor technical issue, the project manager observes tension
+between two project team members.
+Which of the following conflict resolution strategies should the project manager use?
+A. Brainstorming
+B. Smooth/Accommodate
+C. Withdraw/Avoid
+D. Collaborate/Problem Solve
+46. 在一个项目接近其第一个关键里程碑时，进度计划受到制约。在讨论一个次要技术问题时，
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+项目经理发现两名项目团队成员之间的紧张情绪。
+项目经理应该使用下列哪一种冲突解决方案？
+A. 头脑风暴法
+B. 缓解/包容
+C. 撤退/回避
+D. 合作/解决问题
+47. The construction phase of a project is expected to last 24 months. The project
+sponsoring committee is concerned about the impact of potential inflation on the project’s
+estimated profits and considers discontinuing the project.
+What should the project manager do?
+A. Ask the project sponsoring committee to decide if the project will continue
+B. Prequalify potential contractors and report conclusions to the project sponsoring
+committee.
+C. Start a bid process to define detailed costs and report conclusions to the project
+sponsoring committee
+D. Conduct a sensitivity analysis and present the conclusions to the project sponsoring
+committee
+47.一个项目的施工阶段预期要持续24 个月。项目发起人委员会担心潜在通货膨胀对项目估算
+利润的影响，考虑中止该项目。
+项目经理应该怎么做？
+A. 要求项目发起人委员会决定是否继续该项目
+B. 对潜在承包商进行资格预审，并将结论汇报给项目发起人委员会
+C. 开始招标过程，确定详细的成本，并将结论汇报给项目发起人委员会
+D. 执行敏感性分析，并将结论提交给项目发起人委员会
+48. Which of the following is the final task in a project?
+A. Completing a lessons learned review and update
+B. Transporting the accepted deliverables to the client
+C. Archiving the project records
+D. Disbanding the project team
+48.下列哪一项属于一个项目的最终任务？
+A. 完成经验教训审查和更新
+B. 将已验收的可交付成果运送给客户
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+C. 项目记录存档
+D. 解散项目团队
+49. During a project to install new machinery in 13 global plants, project team members
+update the project management information system （PMIS） after the completion of each task.
+While the team completes all tasks required to install the new machinery, what should
+the project manager implement to control the quality of the work?
+A. Quality audits
+B. Quality checklists
+C. Quality metrics
+D. Quality performance measurements
+49.在为全球13个工厂安装新机器的项目期间，项目团队成员在完成每项任务之后更新了项目
+管理信息系统（PMIS）。
+在团队完成安装新机器所需的所有任务时，项目经理应实施哪一项来控制工作质量？
+A. 质量审计
+B. 质量核对单
+C. 质量测量指标
+D. 质量绩效测量
+50. A project manager is working on a project’s quality management plan. The project
+manager should consider which of the following when determining the project’s cost of
+quality（COQ）?
+A. Training, inspections, rewards, and lost business
+B. Rewards, inspections, rework, and lost business
+C. Training, rewards, rework, and lost business
+D. Training, inspections, rework, and lost business
+50.项目经理正在制定项目的质量管理计划。在确定项目的质量成本（COQ）时，项目经理应考
+虑下列哪一项？
+A.培训、检查、奖励和业务流失
+B.奖励、检查、返工和业务流失
+C.培训、奖励、返工和业务流失
+D.培训、检查、返工和业务流失
+51. A company has a fixed-budget project that must be completed in six months. The
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+project manager learns that there is an unplanned delay in the project and that resources
+are only available for four months. The project manager is concerned that the schedule will
+not be met and will result in a penalty.
+What should the project manager do next?
+A. Renegotiate the schedule based on the delay
+B. Document the risk and escalate to the project sponsor.
+C. Obtain agreement from key resources to mitigate the delay
+D. Crash the schedule by fast tracking the project.
+51.一家公司有一个必须在六个月内完成的固定预算项目。项目经理发现项目中存在一个事先未
+计划的延期，且资源只可用四个月。项目经理担心将不满足进度计划要求，并导致罚款。
+项目经理下一步应该怎么做？
+A. 根据延期情况重新协商进度计划。
+B. 记录该风险，并上报给项目发起人。
+C. 获得关键资源对减轻延期的同意。
+D. 通过快速跟进项目对进度计划赶工。
+52. A contract for a company’s software solution is awarded to a vendor. After
+implementation the company’s users find issues that the company’s support team must
+address. Key clauses in the support agreement, which were included in the procurement
+contract, are unclear and biased towards the vendor.
+On which of the following processes should the project manager have focused to avoid
+the conflict?
+A. Plan procurement management
+B. Conduct procurements
+C. Manage procurements
+D. Contract procurements
+52.一家公司的软件解决方案合同授于卖方。实施之后，该公司的用户发现了一些该公司支持团
+队必须解决的问题。包含在采购合同中的支持协议关键条款不明确，全偏向于卖方。
+项目经理应关注下列哪一个过程来避免这项冲突？
+A. 制定采购管理计划
+B. 实施采购
+C. 管理采购
+D. 控制采购
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+53. A project has an eight-month schedule. Based on the table, what should be the new
+duration to complete the project?
+Project length(months) 8. 00
+Budget at completion (BAC) US$20000
+Actual cost for work performed (ACWP)US$8000 Actual cost (AC)
+Budgeted cost for work performed(BCWP)US$7500 Earned value(EV)
+Budgeted cost for work scheduled
+(BCWS)
+US$8500 Planned Value(PV)
+A. 1 month
+B. 8.6 month
+C. 9.1 month
+D. 12month
+53.项目工期为八个月。根据表格，完成项目的新工期为多少？
+项目工期（月） 8.00
+完工预算（BAC） 20000美元
+已完工作实际成本（ACWP） 8000美元实际成本（AC）
+已完工作预算成本（BCWP） 7500美元挣值（EV）
+计划工作预算成本（BCWS） 8500美元计划价值（PV）
+A. 1个月
+B. 8.6 个月
+C. 9.1 个月
+D. 12个月
+54 A company’s senior management will introduce a new product for the upcoming holidays.
+Consultants develop cash flow tabulations over a five-year period for four possible products
+A, B, C and D.
+Product name Net present value (NPV) at the end of year
+one
+Net present value(NPV) at the
+end of year five
+A US$ -4000 US$ 12000
+B US$ -2000 US$ 8000
+C US$ -2200 US$ 12000
+D US$ -2800 US$ 9000
+Based on the table, which product should the project manager recommend for development?
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A. Product A
+B. Product B
+C. Product C
+D. Product D
+54.公司的高级管理层为即将到来的节假日引进一项新产品。顾问公司为四个可能产品制定了五
+年期现金流统计表：产品以A，B，C，和D
+产品名称第一年末净现值（NPV） 第五年末净现值（NPV）
+A US$ -4000美元US$ 12000美元
+B US$ -2000美元US$ 8000美元
+C US$ -2200美元US$ 12000美元
+D US$ -2800 US$ 9000
+根据此表，项目经理应推荐开发哪个产品？
+A.产品A
+B.产品B
+C.产品C
+D.产品D
+55. A portion of a project, s budget becomes available because the project is ahead
+of schedule. To promote further enhanced project performance, what should the project
+manager do next?
+A. Allocate the savings to the project’s contingency reserves.
+B. Reward the project team members when tasks are ahead of schedule.
+C. Report this as a cost savings to the project sponsor.
+D. Look for opportunities to reward and recognize the project team.
+55.由于项目提前于进度计划，一部分项目预算变为可用。为了进一步增强项目绩效，项目经理
+下一步该怎么做？
+A.将节省下来的资金分配给项目应急储备。
+B.任务提前于进度计划完成时奖励项目团队成员。
+C.将其作为成本节约活动报告给项目发起人。
+D.寻找机会，奖励和认可项目团队。
+56. A project manager is assigned to a company’s technology project. A competitor is
+delivering the same product to market using a different technology. As a result, the
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+company’s project sponsor determines there is on longer a need for the project.
+What should the company’s project manager do next?
+A. Release the project team
+B. Terminals the project
+C. Update the project management plan
+D. Discuss the possibility of continuing the project with the project sponsor
+56.项目经理被任命管理公司的一个技术项目。竞争对手正在使用不同的技术向市场投放相同的
+产品。结果，公司的项目发起人决定该项目不再有存在的必要性。
+该公司的项目经理下一步该怎么做？
+A.解散项目团队
+B.终止项目
+C.更新项目管理计划
+D.项目发起人讨论继续项目的可能性。
+57. A company’s most talented resource becomes available and could contribute to
+reducing project’s timeline without impacting the budget. What should the project
+manager do next?
+A. Note this as an opportunity and escalate to project stakeholders.
+B. Directly engage the resource for the project.
+C. Create a change request.
+D. Provide the risk response strategy and exploit the opportunity.
+57.公司最优秀的人才资源可用，并可在不影响预算的情况下减少项目的时间表。项目经理下一
+步应该怎么做？
+A.将其记录为一项机会，并上报给项目干系人。
+B.直接聘用该资源为项目工作。
+C.创建变更请求。
+D.审查风险应对策略，并开拓机会。
+58. A project manager terminates a vendor’s contract early because of dissatisfaction
+with the deliverables. The project manager must compensate the vendor based on which of
+the following?
+A. Contracted earned value （EV） to date
+B. Agreed upon scope with the vendor
+C. Contracted terms and conditions
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D. All of the accepted work
+58.由于对可交付成果不满意，项目经理提前终止了供应商合同。项目经理必须根据下列哪一项
+补偿供应商？
+A.截至目前为止合同约定的挣值（EV）
+B.与供应商约定的范围
+C.合同约定的条款与条件
+D.所有已验收的工作
+59. If a project’s budget at completion （BAC）is US$120,000, the estimate at completion
+（EAC） is US$125,000, and the actual cost （AC） is US$105,000, what is the project’s
+cost variance （CV）?
+A. US$ -4200
+B. US$ 5,000
+C. US$ 15,000
+D. US$ 20,000
+59.如果一个项目的完工预算（BAC）为120,000美元，完工估算（EAC）为125,000 美元，实际
+成本（AC）为105,000 美元，那么项目的成本偏差（CV）是多少？
+A.-4200 美元
+B.5,000 美元
+C.15,000美元
+D.20,000美元
+60. To define the work package level of the work breakdown structure （WBS）, what should
+the project team do?
+A. Analyze and identify all of the project deliverables and their associated work
+B. Organize and structure all of the project deliverables
+C. Decompose the project activities into their detailed components
+D. Analyze and identify all project activities, costs and durations
+60.若要定义工作分解结构（WBS）的工作包层次，项目团队应该做什么？
+A.分析并识别所有项目可交付成果及其相关工作
+B.组织和构建所有项目可交付成果
+C 将项目活动分解成详细的组成部分
+D.分析并识别所有项目活动的成本和持续时间
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+61. A project manager estimates costs for a new software project. Based on past
+experience, the company developed a statistical relationship between the number of screens
+in a module and the labor hours required to produce a module.
+What cost estimating technique should be used to take advantage of this information?
+A. Analogous
+B. Parametric
+C. Bottom-up
+D. Rough order of magnitude
+61.项目经理估算一个新软件项目的成本。根据过往经验，公司制定了模块屏幕数量和生产一个
+模块所需的劳动小时数之间的统计关系。
+应使用什么成本估算技术来利用这项信息？
+A.类比估算
+B.参数估算
+C.自下而上估算
+D.粗略量级估算
+62. Two co-workers disagree on the products and services that will be delivered by a
+project.
+To address the disagreement, the project manager should refer to which of the following?
+A. Project statement of work （SOW）
+B. Human resource management plan
+C. Quality management plan
+D. Project management plan
+62.两名同事对一个项目交付的产品和服务意见不一致。若要解决这个分歧，项目经理应该查阅
+下列哪一份文件？
+A.工作说明书（SOW）
+B.人力资源管理计划
+C.质量管理计划
+D.项目管理计划
+63. A project manager is assigned to a global project for a telecommunications company.
+The company has expertise in managing this type of project, but the project manager is new
+to this role.
+How should the project manager improve their personal chance of success in delivering
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+this project?
+A. Consult lessons learned from similar previous projects
+B. Review the project management plan with a key project stakeholder
+C. Conduct project stakeholder meeting
+D. Conduct thorough risk analysis
+63.项目经理被任命管理一家电信公司的全球项目。该公司拥有管理此类项目的专业，但项目经
+理却是刚接触该职位。
+项目经理应如何提高其成功交付此项目的个人机会？
+A.查询之前类似项目的经验教训
+B.关键项目干系人一起审查项目管理计划
+C.召开项目干系人会议
+D.执行彻底的风险分析
+64. A new production manager is appointed to an ongoing project for a major factory
+upgrade to accommodate a new product line. What should the project manager do to ensure
+the successful completion of the project?
+A. Update the stakeholder management plan with the new production manager’s
+expectations and impact on the project
+B. Refer the production manager to the marketing project sponsor for a brief on the
+project
+C. Send the production manager a copy of the project charter to inform them of the project
+D. Interview the production manager to understand their priorities and comprehension
+of the project
+64.一名新项目经理被任命管理一个正在进行当中的项目，这个项目是要升级一家大型工厂以容
+纳新的产品线。为确保成功完成项目，项目经理应该做什么？
+A.更新干系人参与计划，包含新生产部经理的期望以及对项目的影响
+B.介绍生产部经理与市场营销项目发起人见面，了解项目基本情况
+C.向生产部经理发送一份项目章程副本，向其通知项目情况
+D.与生产部经理面谈，了解他们的优先顺序并理解项目
+65. While reviewing the project’s progress, the project manager detects that an
+activity on the critical path exceeds the estimated time. The project manager documents
+this issue in the project issue log.
+To bring the project back on track, what should the project manager do next?
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A. Adjust leads and lags
+B. Change the schedule baseline
+C. Fast track the activities
+D. Crash the schedule
+65.审查项目进度时，项目经理发现关键路径上的一项活动超出了估算时间。项目经理将该问题
+记录在项目问题日志中。
+为了恢复项目进度，项目经理下一步该怎么做？
+A.调整项目时间提前量和滞后量
+B.更改进度基准
+C.快速跟进活动
+D.赶工
+66. A new project manager replaces the project manager who created the project
+management plan. After reviewing the status reports with the project team, the new project
+manager realizes that key deliverables are not included in the scope statement.
+What should the new project manager do next?
+A. Update the project management plan to include the omitted deliverables
+B. Prepare a new project management plan and request approval
+C. Refer to the risk register
+D. Refer to the change management plan and apply processes to proposed scope changes
+66.新项目经理替换了创建项目管理计划的项目经理。与项目团队一起审查状态报告后，新项目
+经理发现关键可交付成果不包含在范围说明书中。
+新项目经理下一步该怎么做？
+A 更新项目管理计划，包含省略的可交付成果
+B 制定一份新的项目管理计划，并请求批准
+C.查阅风险登记册
+D.查阅变更管理计划，并应用该流程到提议的范围变更
+67. During a software project, s execution phase, the project team discovers that four
+integration testing cycle lasts four weeks instead of two. To reduce the impact on schedule,
+the team lead recommends performing parallel testing cycles.
+What should the project manager do next?
+A. Review the quality management plan
+B. Conduct the perform quality assurance process
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+C. Conduct a quality audit with all project stakeholders
+D. Eliminate two of the four testing cycles
+67.在一个软件项目的执行阶段，项目团队发现每四个集成测试周期持续时间为四周，而非两周。
+为减少对项目进度计划的影响，团队负责人建议执行并行测试周期。项目经理下一步应该怎么做？
+A.审查质量管理计划
+B.开展管理质量保证过程
+C.与所有项目干系人开展质量审计
+D.去除四个测试周期的其中两个
+68. A project manager evaluates the results of a questionnaire provided to the project
+sponsor, business analyst, and product designer.The purpose of the questionnaire is to
+define and clarify the business requirements, as well as align business goals and
+strategies.
+This action is part of which of the following knowledge areas?
+A. Project Integration Management
+B. Project Scope Management
+C. Develop Project Charter
+D. Initiate Project
+68.项目经理评估了提交给项目发起人、业务分析师、产品设计师的问卷调查结果。该问卷调查
+的目的是为了定义和澄清业务需求，以及将业务目标和战略保持一致。
+该项行动属于下列哪一个知识领域？
+A.项目整体管理
+B.项目范围管理
+C.制定项目章程
+D.启动项目
+69. A project manager from a consulting firm takes over a customer’s preapproved
+project. When a deliverable is submitted, it is discovered that the cost was underestimated.
+The project manager reports the error to a senior manager who emphasizes that the project
+is critical to the firm.
+What should the project manager do next?
+A. Add a re-estimation task to a later phase in the project management plan
+B. Evaluate options to reduce the scope to match the budget
+C. Report the error to the project sponsor.
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D. Apply contingency
+69.来自顾问公司的项目经理接管了客户预先批准的项目。提交可交付成果时，发现成本被低估
+了。项目经理将这个错误报告给高级经理，高级经理强调该项目对公司至关重要。
+项目经理下一步应该怎么做？
+A.在项目管理计划中的后期阶段，增加一个重要估算任务
+B.评估减少范围的方案，与预算匹配
+C.将该错误上报给项目发起人
+D.应用应急策略
+70. A project sponsor calls for a go/no-go meeting at which the project charter may
+be approved. The project manager must prepare input to support the review of project
+selection criteria in the meeting.
+The project manager will find input in which of the following documents?
+A. Source selection criteria
+B. Probability and impact matrix
+C. Business case
+D. Stakeholder management plan
+70.项目发起人召开推进/不推进会议，在会上可能批准项目章程。项目经理必须准备输入来支
+持会上对项目选择标准的审查。
+项目经理将在下列哪一份文件中发现输入？
+A.供方选择标准
+B.概率与影响矩阵
+C.商业论证
+D.干系人参与计划
+71. A company’s CEO sponsors an employee professional development system project.
+After the client approves the project’s scope and requirements, a human resource specialist
+states that to avoid violating company polices, some information cannot be shared.
+What should the project manager do next?
+A. Suggest that the CEO change the company policy to accommodate the project’ s scope
+and requirements
+B. Change the requirements to accommodate the human resource department’s objections
+C. Arrange a meeting with affected project stakeholders and reaffirm the project charter
+D Present the facts to the change control board （CCB） for approval
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+71.公司的CEO发起了一个员工职业发展体系项目。在客户批准项目范围和需求后，人力资源专
+家表示，为避免违反公司的相关政策，不能分享某些信息。
+项目经理下一步应该怎么做？
+A.建议CEO更改公司政策，以包容项目的范围和需求
+B.更改需求，包容人力资源部门的反对意见
+C.安排一次与受影响项目干系人的会议，重新确认项目章程
+D.将该情况提交给变更控制委员会（CCB）批准
+72. Which of the following tools or techniques should a project manager use to develop
+a project charter?
+A. What-if scenario analyses
+B. Performance reviews
+C. Expert judgment
+D. Group decision-making
+72.项目经理应该使用下列哪一项工具或技术来制定项目章程？
+A.假设情景分析
+B.绩效评审
+C.专家判断
+D.群体决策
+73. A company hires a consultant to implement third-party software. The project has
+multiple phases and must implement phase one within 18 months.
+Which of the following risks must be captured in the project charter?
+A. Vendor resources may be unavailable on the project’s start date
+B. Project resources are not properly trained on the new software
+C. Detailed project scope is incomplete
+D. Feasibility studies determined that in-house implementation is the best solution
+73.公司雇佣了一家顾问公司来实施第三方软件。项目分多个阶段，且必须在18 个月内实施第
+一阶段。下列哪一项风险应包含进项目章程中？
+A.在项目开始日期供应商资源可能不可用
+B.项目资源未接受有关新软件的正式培训
+C.详细项目范围不完整
+D.可行性研究确定内部实施是最佳解决方案
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+74. While developing a project charter for an internal project, the project manager
+realizes some functional managers’ expectations conflict with each other and could
+negatively impact the project.
+What should the project manager do next?
+A. Develop a communications management plan
+B. Perform a stakeholder analysis
+C. Evaluate the risks
+D. Escalate to the project sponsor
+74.在为一个内部项目制定项目章程时，项目经理意识到一些职能经理的期望与另一些职能经理
+的期望相冲突，可能对项目产生负面影响。项目经理下一步该怎么做？
+A.制定沟通管理计划
+B.干系人映射分析
+C.评估风险
+D.上报给项目发起人
+75. During implementation of automated teller machines at several banks, a project
+manager cannot obtain the required project team members because functional managers are
+not committed to the project. To avoid delays and an impact on customer satisfaction, what
+should the project manager use?
+A. Team performance assessment
+B. Escalation to project stakeholders
+C. Interpersonal skills
+D. Conflict management
+75.在为多家银行实施自动取款机期间，因为职能经理没有对该项目做出承诺，项目经理无法获
+得所需的项目团队成员。为避免延期以及对客户满意度的影响，项目经理应该使用下列哪一项？
+A.团队绩效评估
+B.上报给项目干系人
+C.人际关系技能
+D.冲突管理
+76. Due to an organizational change, some functional human resources will no longer
+be available to work on the project. The organization lacks internal resources to fill the
+vacancies. What should the project manager do to address this resource issue?
+A. Redistribute the workload across the remaining functional resources
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+B. Assess external resources
+C. Reschedule the project
+D. Escalate this human resource issue to the project sponsor
+76.由于组织变更，有些职能人力资源将不再可能为项目工作。该组织缺乏内部资源来填补空缺。
+若要解决这个资源问题，项目经理应该怎么做？
+A.在剩余的职能资源中重新分配工作量
+B.评估外部资源
+C.重新制定项目进度计划
+D.将这个人力资源问题上报给项目发起人
+77. A company works on a project using an innovative and untested technology, What type
+of contract gives the project the flexibility to redirect a vendor when the scope of work
+cannot be precisely defined at the start?
+A. Time and material （T&M）
+B. Firm fixed price （FFP）
+C. Cost-reimbursable
+D. Fixed price incentive fee （FPIF）
+77.一家公司正在执行使用—种创新且未经测试技术的项目。哪种合同类型能为开始时无法精确
+定义工作范围的项目经理更改供应商的灵活性？
+A.工料合同（T&M）
+B.固定总价合同（FFP）
+C.成本补偿合同
+D.总价加激励费用合同（FPIF）
+78. A project manager prepares to implement a new project in which several
+cross-organizational business owners are involved in the planning and design. The product，
+s sale price is not yet approved as the project’s scope has still not been agreed upon.
+Further delays will impact the design and production, and slippage may occur during
+implementation. Since a yearly bonus may be lower as a result, one manager is pushing to
+start product development.
+What should the project manager do to address this situation?
+A. Obtain high-level permission to start development of the product “as is”
+B. Start the development of the product
+C. Validate the scope before starting product development
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D. Allow the business owners to make the decision
+78.项目经理准备实施一个新项目，在这个项目的规划和设计阶段，涉及跨组织业务所有者。因
+为项目未达成一致意见，产品的销售价格还未获得批准。进一步延期将影响设计和生产，且在实施
+过程中可发生偏移。由于年终奖金可能较低，结果—名经理催促开始产品开发。
+为了解决这种情况，项目经理应该怎么做？
+A.获得高层次许可，“按现状”开始产品开发
+B.开始产品开发
+C.开始产品开发之前核实范围
+D.允许业务所有者做出决定
+79. A project is in the execution phase and a new project manager is assigned. The new
+project manager finds that work outside the original scope of the project was performed.
+As a result higher costs were incurred.
+What should the project manager do next?
+A. Initiate a change request
+B. Review the cost overflow with the project sponsor
+C. Perform variance analysis
+D. Transfer the costs to the project’s contingency reserves
+79.一个项目正处于执行阶段，这时任命了一名新项目经理。新项目经理发现超出项目原始范围
+的工作已被执行。结果产生了较高的成本。
+项目经理下一步应该怎么做？
+A.提出变更请求
+B.与项目发起人一起审查成本超支情况
+C.执行偏差分析
+D.将成本转移至项目的应急储备
+80. During a software development project’s execution,two team members disagree on
+who should do the testing. The project manager should refer to which of the following parts
+of the resource management plan?
+A. Roles and responsibilities
+B. Project organizational chart
+C. Project team resource management
+D. Project staff assignment
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+80. 在一个软件开发项目的执行阶段,两名团队成员对谁应该做测试意见分岐。项目经理应该
+参考资源管理计划的下列哪一部分?
+A. 角色与职责
+B. 项目组织图
+C. 项目团队资源管理
+D. 项目人员配备
+81. Two experts provide contradicting input on a technical issue. To resolve this, the
+project manager facilitates a meeting. The issue could not be settled during the meeting
+and was postponed for future resolution by others.
+The project manager used which of the following conflict resolution techniques?
+A. Withdraw/Avoid
+B. Compromise/Reconcile
+C. Smooth/Accommodate
+D. Collaborate/Problem Solve
+81.两名专家对某个技术问题提供了互相冲突的意见。为解决这个问题，项目经理召开了一次会
+议。但这个问题没有在会议上得以解决，被推迟到未来由其他人解决。
+项目经理使用的是下列哪一项冲突解决技术？
+A.撤退/回避
+B.妥协/调和
+C.缓解/包容
+D.合作/解决问题
+82. A project manager performs an expected monetary value (EMV) analysis to determine
+whether to select a centralized technical support system or onsite technical support.
+cost probability
+Centralized technical support(best
+case)
+US$5.5million 0.7
+Centralized technical support(worst
+case)
+US$7.50million 0.3
+Onsite technical support(best case) US$9.75million 0.8
+Onsite technical support(worst case) US$12million 0.2
+Based on the probabilities and costs shown in the table, which of the following should
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+the project manager select?
+A. Onsite technical support with an EMV of US$10.2 million
+B. Centralized technical support with an EMV of US$6.1 million
+C. Centralized technical support with an EMV of US$2.25 million
+D. Onsite technical support with an EMV of US$2.4 million
+82.项目经理执行预期货币价值（EMV）分析，确定是选择集中技术支持系统还是现场技术支持。
+成本 概率
+集中技术支持（最好情况） 550 万美元0.7
+集中技术支持（最差情况） 750 万美元0.3
+现场技术支持（最好情况） 975 万美元0.8
+现场技术支持（最差情况） 1200万美元0.2
+根据表中所示的概率和成不，项目经理应选择下列哪一项？
+A. EMV 为1020万美元的现场技术支持
+B. EMV 为610万美元的集中技术支持
+C. EMV 为225万美元的集中技术支持
+D. EMV 为240万美元的现场技术支持
+83. A company executive write to a project manager’s superior complaining that the
+deliverations for a recently completed project are below expectations. The project manager
+confirm with their superior that all project stakeholders involved in the quality management
+processes are happy with the deliverables.
+Which of the following processes. If done correctly, should have averted the
+dissatisfaction from the executive?
+A. Perform Quality Assurance
+B. Identify stakeholders
+C. Collect requirements
+D. plan Quality management
+83.一家公司高层写信给项目经理主管，投诉最近完成的项目可交付成果低于期望。项目经理与
+其主管确认管理过程中所涉及的所有项目干系人均对可交付成果感到满意。
+下列哪一个过程，如果做得正确的话，会避免该公司高层的不满？
+A.实质量保证
+B.识别干系人
+C.收集需求
+D.计划质量管理
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+84. After combining all sub-plans into one comprehensive plan, a project manager asks
+resources to perform project tasks. However, the functional managers do not understand why
+their teams are being asked to perform these tasks.
+What should the project manager have done to avoid this?
+A. Requested that all project stakeholders provide the required project resources
+B. Required each functional manager to agree to the project management plan
+C. Verified the resources’ availability and developed a new human resource management
+plan
+D. Ensured that the project sponsor requested resources directly from the functional
+managers
+84.将所有子计划结合进一个综合计划后，项目经理让资源执行项目任务。但是，职能经理不理
+解为何其团队被要求执行这些任务。
+若要避免这个问题，项目经理应该事先做什么？
+A.请求所有项目干系人提供所需的项目资源
+B.请求每位职能经理同意项目管理计划
+C.核实资源可用性，并制定一份新的人力资源管理计划
+D.确保项目发起人直接从职能经理请求资源
+85. In a project closure report, a project team discovers risks which were not identified
+during the project lift cycle. The project team recommends performing a risk reassessment
+for future project.
+In which of the following should this recommendation be documented?
+A. organizational process assets updates
+B. project reports
+C. historical information
+D. risk register updates
+85.在一份项目收尾报告中，项目团队发现在项目生命周期中未识别到的风险。项目团队建议为
+未来项目执行风险再评估。
+这项建议应记录在下列哪一项中？
+A.组织过程资产更新
+B.项目报告
+C.历史信息
+D.风险登记册更新
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+86. A project that is 75 percent complete is behind schedule and over budget. Team morate
+is low. The project director advises the project team that their current plan must be
+maintained, however, the project manager disagrees.
+A. reduce the number of overtime hours required
+B. incorporate team-building activities into team review meetings
+C. schedule daily review meetings to ensure the project team remains on task
+D. delay tough decisions for a future date.
+86.项目已完成75%，落后于进度计划，并超出预算。团队士气低下。项目总监通知项目团队必
+须维持当前计划，但是项目经理不同意。
+项目经理应该如何解决团队士气问题？
+A.减少所需的加班时间
+B.将团队建设活动包含进团队评审会中
+C.安排召开每日评审会，确保项目团队继续完成任务。
+D.将艰难的决定推迟到未来某一日期
+87. A project funded by a financial instituation receives technical and financial offers
+from four bidders. The evaluations are based on quality and cost, with weights of 80 percent
+for technical quality and 20 percent for cost (financial score). The technical quality’s
+minimum qualifying score is 75. The four bidders received the scores shown below.
+Bidder Technical score (out of 80) Financial score (out of 20)
+A 70 18
+B 79 14
+C 76 16
+D 74 20
+Which bidder is expected to be awarded the contract?
+A. Bidder A
+B. Bidder B
+C. Bidder C
+D. Bidder D
+87.一个由金融机构提供资金的项目，收到四家投标方的技术和财务报价评估基于质量和成本，
+其中80%技术质量方面，20%放在成本方面（财务评分)。技术质量的最低合格分数为75。投标方所
+获得的分数如下所示。
+技术评分（总分80分） 财务评分（总分20分）
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A 70 18
+B 79 14
+C 76 16
+D 74 20
+哪家投标方将会获得合同？
+A.投标方A
+B.投标方B
+C.投标方C
+D.投标方D
+88. An issue occurs when a vendor does not deliver a product on the agreed-upon date.
+The risk response plan requires the use of an alternate vendor that is more expensive but
+can deliver immediately.
+What should the project manager do next?
+A. Set up a bidder conference to identify additional alternate vendors.
+B Submit a change request to use the alternate vendor
+C Review the contingency reserves
+D. Conduct a risk audit
+88.供应商未按照约定日期交付产品时发生了—个问题。风险应对计划要求使用替代供应商，该
+供应商更为昂贵但是可以立即交付。
+项目经理下一步应该怎么做？
+A.召开投标人会议，识别另外的替代供应商。
+B.提交一份变更请求，使用替代供应商。
+C.审查应急储备。
+D.开展风险审计。
+89. A developer, s team delivers a product that is ready to be lauched. What should
+the project manager do next?
+A. conduct a client review of deliverables.
+B. update the final documentation.
+C. verify the scope and obtain the project sponsor’s acceptance.
+D. perform a quality assurance audit.
+89. 开发公司的团队交付了准备发布的产品。项目经理下一步应该怎么做？
+A.执行可交付成果的客户审查。
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+B.更新最终文档。
+C.核实范围并获得项目发起人的验收。
+D.执行质量保证审计。
+90. While executing a schedule driven project, the schedule performance index becomes
+0.5 The project manager applies fast tracking and schedule compression techniques without
+any success. What should the project manager do next?
+A. Intiate the integrated change control process
+B. Apply changes to the schedule baseline.
+C. Ask the sponsor for additional resources.
+D. Reduce the project scope.
+90.在执行一个受进度驱动的项目时，进度绩效指数为0.8，项目经理应用了快速跟进和进度压
+缩技术，但不成功。
+项目经理下一步该怎么做？
+A.启动整体变更控制过程。
+B.对进度基准应用变更。
+C.让发起人增加额外资源。
+D.减少项目范围。
+91. A new team member with no practical project experience is assigned to an ongoing
+project. The project manager assigns a difficult task to the new team member.
+What action should the project manager now take?
+A. Assign a mentor for the new team member and closely monitor their progress
+B. Recommend that the new member undertake a self-study training program
+C. Allow the new team member to work alone, but report daily to the project manager.
+D. Provide the new team member with the project management plan and assign a contact
+person.
+91.一名没有实际项目经验的新团队成员被分配到一个正在进行当中的项目。项目经理向该团队
+成员分配了一项困难任务。
+项目经理现在应该采取什么措施？
+A.为该新团队成员分配一位指导者，并密切监测他们的进展情况。
+B.建议该新团队成员参加自学培训课程。
+C.允许该新团队成员单独工作，但应每日向项目经理报告工作。
+D.向该新团队成员提供项目管理计划，并指定—名联系人。
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+92. Which of the following inputs should a project manager use to address a change?
+A. work performance reports
+B. approved change requests
+C. change logs
+D. change control meetings
+92.项目经理应该使用下列哪一项输入来解决变更？
+A.工作绩效报告
+B.批准的变更请求
+C.变更目录
+D.变更控制会议
+93. A project manager’s construction project is on time, on scope and within budget.
+The project manager teams that a favorable weather forecast will allow for the
+implementation of critical path activities earlier than expected.
+What should the project manager do first?
+A. revise the schedule
+B. initiate perform integrated change control process
+C. check risk register
+D. follow the planned schedule
+93.项目经理的施工项目符合时间、范围以及预算。项目经理了解到有利的天气预报将允许比预
+期提前执行关键路径上的活动。
+项目经理首先该做什么？
+A.修订进度计划
+B.开始执行整体变更控制过程
+C.检查风险登记册
+D.遵循计划的进度计划
+94 .A project manager from country A discusses the status of a work package with a
+technical lead in country B. The technical lead reports that they are delayed but could
+recover in the next week. After a week, the project manager learns that the delay has
+increased and the technical lead insists they both knew that this was a possiblity.
+What should the project manager do to avoid repeating this situation?
+A. reduce the tolerance with other delays in work packages managed by this technical
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+lead.
+B. Ask the technical lead to provide written status reports.
+C. Ensure there is complete understanding and acknowledgement within the project team.
+D. Update the risk register and the decision register.
+94.来自A国的项目经理与B 国的技术负责人讨论某个工作包的状态。该技术负责人报告代表会
+在延期，但是可在下一周恢复进度。一周之后，延期增加，而技术负责人坚持双方都知道存在这个
+可能性。
+为避免重复这种情况，项目经理应该怎么做？
+A.降低该技术负责人所管理工作包其它延期情况的容忍度。
+B 要求该技术负责人提供书面状态报告。
+C.确保项目团队拥有完整的理解和认识。
+D.更新风险登记册和决策登记册。
+95. Performance testing of a recently installed inventory management system reveals
+that the system does not meet performance specifications. This is an example of which of
+the following?
+A. Defect
+B. Omission
+C. Nonconformance
+D. Failure
+95.一个最近安装的存货管理系统的性能测试显示系统不满足性能规范。这属于下列哪一项的实
+例？
+A.缺陷
+B.疏忽
+C.不合格
+D.失败
+96. A client had requested that three new features be added to a project and approved
+the subsequent change request.
+What should be done next?
+A. Consult all project stakeholders in the stakeholder register to confirm agreement
+B. Implement the changes
+C. Revise the project charter
+D. Ensure all project team members approve the changes
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+96.客户请求对项目添加三个新功能，并批准后续的变更请求。
+下一步应该怎么做？
+A.咨询干系人登记册中的所有项目干系人，确认获得一致意见
+B.实施变更
+C.修订项目章程
+D.确保所有项目团队成员批准变更。
+97. To improve its products and ensure customer satisfaction, a company implements a
+quality process that places emphasis on the statistical measurement of the prouct. What
+is the company implementing?
+A. training
+B. total quality management (TQM)
+C. scrap rather than rework
+D. improved inspection
+97.为了改进其产品，确保客户的满意度，一家公司实施了质量过程，将重点放在产品的统计测
+公司正在实施哪一项？
+A.培训
+B.全面质量管理（TQM)
+C.废料而不返工
+D.改进检查
+98. A company’s executive team identifies a product that is underperforming and needs
+to be replaced. The project sponsor asks the project manager to initiate a new project to
+develop the replacement product.
+What should the project manager do first?
+A. Submit the project charter to the project sponsor for approval.
+B. Work with the project sponsor to identify the high level requirements for the
+replacement product.
+C. Develop the project management plan.
+D. Indentify the project stakeholders who will be involved in the development of the
+replacement product.
+98. 一家公司的执行团队识别到一项产品表现不佳，需要替换。项目发起人要求项目经理启动
+一项新项目，开发替换产品。
+项目经理首先应该做什么？
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A.向项目发起人提交项目章程，用于批准。
+B.与项目发起人合作，识别替换产品的髙层次需求。
+C.制定项目管理计划
+D.识别涉及替换产品并发工作的项目干系人
+99. A project is on hold for three weeks due to the realignment of key development
+resources. The project is reengineered with a revised cost and schedule baseline. The
+project sponsor requests a pefromance report from the project manager.
+What performance information should the project manager include in the report?
+A. Status reports, recommendations, and forecasts
+B. Program evaluation and review technique (PERT) analysis, status reports, and cost
+baseline updates
+C. Justifications, performance review, and cost baseline updates
+D. Status reports, progress measurements, and forecasts.
+99.由于重新分配关键开发资源，项目暂停三周。项目采用修订的成本和进度基准重新设计。项
+目发起人要求项目经理提交绩效报告。
+项目经理应在报告中包含哪些绩效信息？
+A.状态报告，建议和预测
+B.计划评审技术（PERT)分析，状态报告和成本基准更新
+C.正当理由，绩效审查和成本基准更新
+D.状态报告，进度测量和预测
+100. During project execution, the project team is unsure about their responsibilities.
+Which of the following should the project manager have prepared?
+A. Stakeholder analysis g
+B.Staffing management plan
+C project management plan
+D Responsible, accountable, consult, and inform (RACI) matrix
+100.项目执行期间，项目团队不确定各自的责任。项目经理应制定下列哪一项？
+A.干系人分析
+B.资源管理计划
+C.项目管理计划
+D.执行，负责，咨询和知情（RACI）矩阵
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+101. Two weeks after a project's completion, the project manager contacts the client who
+was satisfied with the project's deliverables. The project manager asks the client to
+complete an online survey.
+After reviewing the client's positive feedback, what should the project manager do next?
+A. Ask the client to be a reference.
+B. Update the project management plan.
+C. Perform a configuration verification and audit.
+D. Update the organizational process assets.
+101.在项目完成后的两周，项目经理联系了曾经对项目可交付成果满意的客户。项目经理让客户完
+成一份在线调查。
+在查看客户的正面反馈之后，项目经理下一步该怎么做？
+A.让客户作为参照
+B.更新项目管理计划
+C.执行配置核实与审计
+D.更新组织过程资产
+102. When scheduling a project, the project manager has enough information to detail the
+project's first phase. At the start of the project's execution, the project manager assumes
+that detailed schedules for the next phases will be created after more information is
+available.
+Which scheduling technique is the project manager using?
+A. Iterative life cycle
+B. Decompositon
+C. Rolling wave planning
+D. Adaptive life cycle
+102.制定项目的进度计划时，项目经理拥有足够的信息，来详细说明项目第一阶段进度计划。在开
+始项目执行时，项目经理认为在获得更多信息后将制定下一阶段的详细进度计划。
+项目经理采用了哪一项进度安排技术？
+A.迭代生命周期
+B.分解
+C.滚动式规划
+D.适应性生命周期
+103. A project is dependent upon a vendor's deliverable. However, the vendor cannot deliver
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+the product on time. The customer now wants to replace the project manager.
+What should the project manager have done to compensate for the late delivery?
+A. Monitored using a procurement audit
+B. Performed a variance analysis
+C. Selected an alternate vendor
+D. Responded with a contingency plan
+103.一个项目取决于供应商的可交付成果。但是，该供应商无法按时交付产品。客户现在希望替换
+掉项目经理。
+若要补偿延迟交付情况，项目经理事先应该做什么？
+A.执行采购审计监督
+B.执行偏差分析
+C.选择可替代的供应商
+D.使用应急计划应对
+104. A project sponsor asks a project team to execute a project's scope in a single phase.
+Which of the following should be presented to the project sponsor so that a multi-phased
+approach can be Used?
+A. Stakeholder analysis
+B. Requirements management plan
+C. High-level risks
+D. Flowchart
+104.项目发起人要求项目团队在一个单独阶段执行项目范围。应向项目发起人提交下列哪一项才能
+使用多阶段方法？
+A.干系人分析
+B.需求管理计划
+C.高层次风险
+D.流程图
+105. During a board of directors meeting, a possible project delay is discussed. The board
+of directors asks for recommended steps to accelerate the project.
+This is an example of what type of change request?
+A. Defect repair
+B. Corrective action
+C. Preventive action
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D. Fast tracing
+105.董事会上讨论了一个可能的项目延期情况。董事长要求提出建议措施来加快项目进度。
+这属于哪种变更请求类型的实例?
+A.缺陷补救
+B.纠正措施
+C.预防措施
+D.快速跟进
+106. During project execution, the customer performs a quality audit. There are several
+findings of insufficient documentation to indicate adherence to the life cycle process. To
+ensure sufficient quality of project execution, what should the project manager do first?
+A. Quality planning process
+B. Benchmarking
+C. Process analysis
+D. Change request
+106.客户在项目执行过程中开展质量审计。发现符合生命周期过程的证明文件不足。为了确保项目
+执行质量合格,项目经理首先应该做什么?
+A. 质量计划过程
+B. 基准
+C. 过程分析
+D. 变更请求
+107. Upon reaching the end of a project phase, a project manager learns that a functional
+manager is concerned about the project's implementation. What is the first action that the
+project manager should take to address this concern?
+A. Complete the project phase as planned and later meet with the functional manager to
+address the conern.
+B. Document the concern in the risk register and assess its possible impact. the project
+C. Identify the functional manager's specific concern
+D. Review organizational process assets to determine the appropriate course of action
+107.接近项目阶段结束时，项目经理发现职能经理对项目的实施情况非常担心。若要解决这个问题，
+项目经理首先应该采取的措施是什么?
+A.按计划完成项目阶段，并在后期与职能经理开会解决这个问题
+B.在风险登记册中记录这个问题，并评估其对项目的可能影响
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+C.确定职能经理具体担心的问题
+D.审查组织过程资产，确定相应的行动措施
+108. A customer does not approve a project deliverable. The reason is documented and the
+project manager is asked to repair the defect.
+what should the project manager do first?
+A. Prepare a change request
+B. Update the project management plan
+C. Understand the reason for non-acceptance
+D. Implement the perform quality assurance process
+108.客户没有验收某个项目可交付成果。原因已记录在文件上，并要求项目经理修补缺陷。
+项目经理首先应该做什么？
+A.准备变更请求
+B.更新项目管理计划
+C.了解没有验收的原因
+D.执行实施质量保证过程
+109. During a new system deployment, a company plans quality management. Which of the
+following quality control activities should be included in this process?
+A. Audit the technical requirements for the system's specifications
+B. Perform a process analysis to identify issues and plan preventive actions
+C. Produce a checklist to verify that a set of required steps were performed
+D. Examine whether the team is using best practices throughout the project
+109.在一个新系统部署期间，公司制定质量管理计划，下列哪一个质量控制活动应包含在这个过程
+中？
+A.审计系统技术规范的技术要求
+B.执行过程分析，识别问题并计划预防措施
+C.制作一份核对表，核实已执行一系列必要的措施
+D.检查团队在项目过程中是否使用最佳实践
+110. A project manager receives the results from an internal quality audit. Several project
+shortcomings and areas for improvement are reported.
+What should the project manager do next?
+A. Implement recommendations and conduct follow up quality audit to confirm issues are
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+resolved
+B. Create change requests for audit recommendations
+C. Use flowcharts to prioritize the shortcomings
+D. Perform a cost-benefit analysis of audit recommendations to calculate value of
+recommendations
+110.项目经理收到内部质量审计的结果。结果报告了多个项目缺点以及待改进之处。
+项目经理下一步应该怎么做？
+A.实施建议并开展跟进质量审计来确认问题已得到解决
+B.创建审计建议变更请求
+C.使用流程图来排列缺点的优先顺序
+D.执行审计建议的成本效益分析来计算建议的价值
+111. During a project phase review, the project manager discovers that the project does
+not have the support of the project stakeholders. What is the level to ensure successful
+project completion?
+A. Supportive
+B. Unaware
+C. Neutral
+D. Leading
+111.在项目阶段评审会上，项目经理发现项目未获得所有项目干系人的支持。确保成功完成项目所
+需的参与层次是什么？
+A.支持
+B.不知道
+C.中立
+D.领导
+112. A project has a planned value of US$200,000. Current date indicates the project's earned
+value is US$50,000, while actual costs are US$100,000.
+What is the project's cost variance and schedule variance (SV)?
+A. CV=US$-100,000 and SV=US$-100,000
+B. CV=US$-50,000 and SV=US$-100,000
+C. CV=US$-50,000 and SV=US$-150,000
+D. CV=US$-100,000 and SV=US$-150,000
+112.一个项目的计划价值为200,000美元。当时数据表明项目的净值为50,000 美元，实际成本为
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+100,000 美元。
+该项目的成本偏差(CV)和进度偏差(SV)分别是多少？
+A. CV=-100,000 美元，SV=-100,000美元
+B. CV=-50,000美元，SV=-100,000美元
+C. CV=-50.000美元，SV=-150,000美元
+D. CV=-100,000 美元，SV=-150,000美元
+113. After a project's deliverables are accepted, a project stakeholder is reluctant to
+use the installed system. The stakeholder believes proper training was not provided and
+wants the project implementation team to assist their group during the first 60 days after
+the go-live date. What should the project manager do next?
+A. Assign a reduced project team to assist this group for a maximum of 30 days.
+B. Recommend that the project sponsor initiate a new project.
+C. Ignore the complaint, as the project's deliverables were accepted.
+D. Ask the project stakeholder's manager to force the team to start using the installed
+system.
+113.在项目可交付成果获得验收后，项目干系人却不愿使用安装的系统。干系人认为未提供适当的
+培训， 并希望项目实施团队在系统正式投入使用日期后的前60 天内为其团队提供协助。
+项目经理下一步应该怎么做？
+A.分配一支人员减少的项目团队为该团队提供最多30 天的协助
+B.建议项目发起人启动新项目
+C.忽视这项投诉，因为项目可交付成果已获得验收
+D.要求项目干系人的经理强制团队开始使用已安装的系统
+114. A 36-mile road construction project with a US$60 million budget must be completed within
+24 months. At the end of the eighth month. US$25 million was spent and nine miles were
+completed. The project sponsor requests a status report, including earned value (EV).
+What is the project's EV at the end of the eighth month?
+A. US$15 million
+B. US$20 million
+C. US$32 million
+D. US$35 million
+114.一条长约36 英里的公路施工项目预算为6000万美元，必须在24 个月内完成。在第八个月结束
+时，已经花了2500万美元，并完成了9 英里。项目发起人请求提交一份状态报告，包括净值(EV)。
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+那么在第八个月结束时项目的EV 是多少？
+A. 1500 万美元
+B. 2000 万美元
+C. 3200 万美元
+D. 3500 万美元
+115. A project manager contracts with a company for a specific statement of work (SOW).
+However, the company can now no longer fulfill part of the contract's terms and conditions,
+What should the project manager do next?
+A. Initiate a change request
+B. Initiate project closure activities
+C. Initiate the negotiation procedures outlined in the agree agreement
+D. Ask the company to subcontract the parts of the contract's terms and conditions they
+cannot fulfill.
+115.项目经理因为某个特定工作说明书(SOW)与一家公司签订合同。但是，该公司目前不能履行合同
+的部分条款和条件。
+项目经理下一步应该怎么做?
+A.提出变更请求
+B.启动项目收尾活动
+C.启动协议中规定的协商程序
+D.要求该公司分包其不能履行的部分合同条款和条件
+116. Five projects are planned to be completed within a year under the authority of one
+sponsor, A functional manager, who owns the project resources, begins to implement all five
+projects according to the sponsor's request. However, the project manager believes all five
+projects cannot be completed due to limited resources and budget.
+What should the project manager do during the initiating phase to document this concern?
+A. Perform cost and time analysis to determine if five projects can be completed within
+the year.
+B. Follow the sponsor's request
+C. Withdraw from the project
+D. Document the concern as a high-level risk and a constraint for each of the five projects.
+116.五个项目在一名发起人的授权之下，计划在一年内完成。一名拥有项目资源的职能经理开始按
+照发起人的要求执行所有五个项目。但是，项目经理却认为由于资源和预算有限无法完成所有五个
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+项目。
+项目经理应该在启动阶段怎么做来记录该问题？
+A.执行成本和时间分析，确定五个项目是否能够在一年内完成
+B.遵循发起人的要求
+C.退出该项目
+D.将该问题记录为所有五个项目共有的高级别风险和制约因素
+117. A project management office (PMO) conducts a quality audit for an ongoing project.
+It is discovered that the project manager was unaware of enterprise-wide quality policies
+and the project, therefore, does not meet its requirements.
+What should the project manager do next?
+A. Conduct a risk review of the project management plan
+B. Update the lessons learned database
+C. Review the results of the audit with the project team
+D. Update the project management plan
+117.项目管理办公室(PMO)为一个正在进行的项目执行质量审计。发现项目经理不了解企业质量政
+策，因此项目不满足要求。
+项目经理下一步应该怎么做？
+A.执行项目管理计划的风险审查
+B.更新经验教训数据库
+C.与项目团队一起审查审计结果
+D.更新项目管理计划
+118. A junior project team member requests approval of a purchase order an item listed in
+the work breakdown structure (WBS). After reviewing the project budget, the project manager
+realizes that the item on the purchase order is not listed in the project budget.
+What should be the reason for this issue?
+A. The scope baseline was pot used as an input during the estimate costs process
+B. Expert judgment was not used during the estimate cost process
+C. Procurement planning was not used during the estimate process
+D. The bottom-up estimating method was used during estimate costs process
+118.初级项目团队成员请求批准工作分解结构(WBS)中所列某项物品的采购订单。审查项目预算后，
+项目经理发现采购订单上的物品未列入项目预算。
+造成这个问题的原因是什么？
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A.在估算成本过程中未将范围基准作为一项输入
+B.在估算成本过程中未使用专家判断
+C.在估算成本过程中未使用采购规划
+D.在估算成本过程中使用了自下而上估算法
+119. A company starts a critical project. The executive project sponsor, who is a senior
+vice president, has high decision power. However, they are not directly engaged in the
+project and have low interest in its deliverables.
+Which of the following stakeholder management strategies should be used with this executive
+project sponsor?
+A. Manage closely
+B. Keep satisfied
+C. Keep informed
+D. Monitor
+119.一家公司开始一个关键项目。执行项目发起人是公司的高级副总裁，拥有较高的决策权。然而，
+该项发起人没有直接参与项目，且对可交付成果的利益较低。
+执行项目发起人应使用下列哪一项干系人管理策略？
+A.重点管理
+B.令其满意
+C.随时告知
+D.监督
+120. A project manager wants to distribute the project charter to project stakeholders.
+Which method of communication should be used?
+A. Interactive
+B. Pull
+C. Push
+D. Face-to-face
+120.项目经理希望将项目章程发给项目干系人。应该使用哪一种沟通方法？
+A.交互式沟通
+B.拉式沟通
+C.推式沟通
+D.面对面沟通
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+121. An organization is downsized but the same number of projects continues to be implemented.
+After learning about the downsizing, the customer expresses concerns to the project manager
+about potential issues with the quality of the products.
+What should the project manger do?
+A. Escalate the concerns to organizational leadership
+B. Recommend project closure, because quality products may not be delivered
+C. Continue with the project even though it may require fast tracking and crashing
+D. Inform the customer about the project team's qualifications.
+121.一家组织裁员，但是还要继续执行相同数量的项目。得知裁员消息后，客户向项目经理表达了
+有关产品质量潜在问题的担忧。
+项目经理应该怎么做？
+A.将问题上报给组织领导层
+B.建议项目收尾，因为可能不能交付高质量的产品
+C.继续项目，即使可能需要快速跟进和赶工
+D.通知客户有关项目团队的合格证明情况
+122. An internal auditor develops a checklist to ensure project closure is complete. Which
+of the following activities should be included in the checklist?
+A. Archive project data
+B. Conduct variance analysis
+C. Obtain customer feedback
+D. Update the project schedule
+122.一位内部审计员制定了一份核对表，确保项目收尾完成。核对表中应包含下列哪一项活动？
+A.项目数据归档
+B.执行偏差分析
+C.获得客户反馈
+D.更新项目进度
+123. An organization implements a project to develop a new and complex product. To collect
+the project requirements, the project manager invites a training moderator to facilitate
+an interactive discussion.
+What tool or technique is being used?
+A. Focus group
+B. Delphi
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+C. Expert judgment
+D. Product analysis
+123.一家组织实施了一个项目，开发一种复杂的新产品。为收集项目需求，项目经理邀请了一名培
+训主持人，推进互动讨论。
+项目使用的是哪一项工具或技术？
+A.焦点小组会议
+B.德尔菲技术
+C.专家判断
+D.产品分析
+124. One project activity has a free float of two days. What statement can be made about
+the project?
+A. The total float of the project in two days.
+B. The project's subsequent activities can be rescheduled if the activity is delayed by
+two days.
+C. The activity can be delayed by two days without impacting subsequent activities start
+dates.
+D. The activity may be on the critical path.
+124.一个项目活动有两天的自由浮动时间。下列哪个说法适合这个项目？
+A.项目的总浮动时间为两天
+B.如果该活动延期两天，可以对项目的后续活动重新安排进度计划
+C.该活动可以延迟两天，而不会影响后续活动的开始日期
+D.该活动可能在关键路径上
+125. The procurement department collects and delivers vendor quotes to the project manager.
+The project sponsor asks for the project team's recommendations regarding vendor selection.
+What should the project manager do?
+A. Review the Quotes and select the quote based on the best price only.
+B. Conduct a project team meeting to obtain a recommendation
+C. Review the quotes and select a vendor that previously worked with the company
+D. Recommend a vendor based on a match with the selection criteria
+125.采购部门收集供应商报价，并将其提交给项目经理。项目发起人征求项目团队对于供应商选择
+的建议。项目经理应该怎么做?
+A.审查报价，并仅根据最佳价格选择报价
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+B.召开项目团队会议，获得建议
+C.审查报价并选择之前与公司合作过的供应商
+D.根据是否与选择标准匹配推荐供应商
+126. In a functional organization, a project manager expects support from a technical expert
+on a complex design for a long-term project. The expert has a busy schedule and is required
+by operational managers for other projects.
+To ensure the expert allocates specific time to the project, what should the project manager
+do next?
+A. Plan to utilize the expert on a limited timetable and gain commitment from the project
+sponsor.
+B. Plan to keep the expert on the team for the entire project duration to a address any
+contingencies
+C. Negotiate with the operational managers and integrate the expert's timetable into the
+project
+D. Negotiate with the expert on time availability and communicate it to the expert's manager
+126.在一个职能型组织中，项目经理希望获得一名技术专家对一个长期项目的复杂设计提供支持。
+该专家行程繁忙，且其它项目的运营经理也需要该专家。
+为确保该专家为项目分配特定的时间，项目经理下一步该怎么做？
+A.计划在有限的时间表内使用该专家，并获得项目发起人的承诺
+B.计划在整个项目工期内都将该专家保留在项目团队中，以解决任何紧急情况
+C.与运营经理协商，并将该专家的时间表与项目结合在一起
+D.与该专家协商可用时间，并与该专家的经理沟通
+127. During a project's initiation, a new project manager is hired. The previous project
+manager identified the project stakeholders.
+In which of the following documents will the new project manager find information regarding
+stakeholder relationships?
+A. Stakeholder communication requirements
+B. Project organization chart
+C. Stakeholder management plan
+D. Project charter
+127.在项目启动阶段，聘用了一名新项目经理。前任项目经理已经识别了项目干系人。
+新项目经理可以在下列哪一份文件中找到干系人关系方面的信息？
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A.干系人沟通需求
+B.项目组织图
+C.干系人参与计划
+D.项目章程
+128. A project manager is a balanced matrix organization executes a project that is in
+jeopardy of being delayed due to skilled resource constraints. What should the project
+manager do next?
+A. Request that procurement sub-contract the required resources
+B. Negotiate with the influence management to provide the needed project resources
+C. Request a change in project scope to address resource constraints
+D. Ask for alternative resources
+128.一位处于平衡矩阵型组织的项目经理执行一个项目，而由于技能资源制约因素，该项目正面临
+延期危险。项目经理下一步怎么做？
+A.请求采购，分包所需的资源
+B.与有影响力的管理层协商，提供所需的项目资源
+C.请求项目范围变更，解决资源制约因素
+D.要求替代资源
+129. A project team member's behavior is disruptive and does not comply with the company's
+standards. The project manager speaks with the team member, but there is no improvement
+ill their behavior.
+What should the project manager do next?
+A. Request that the functional manager reassign the team member
+B. Escalate the issue to the project sponsor
+C. Organize a project team meeting to reinforce the company's standards
+D. Request support from the human resource department
+129.项目团队成员的行为具有破坏性，且与公司标准不符。项目经理与团队成员谈话，但是他们的
+行为并无任何改进。
+A.请求职能经理重新分配团队成员
+B.将该问题上报给项目发起人
+C.安排项目团队会议，强调公司标准
+D.请求人力资源部门的支持
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+130. During project execution, a project falls behind schedule. After evaluating options,
+the project manager concludes that temporarily collocating the most active virtual team
+members bring the project back on schedule.
+What is the project manager doing?
+A. Developing the project team
+B. Managing the project team
+C. Optimizing the project team
+D. Balancing the project team
+130.在项目执行期间，一个项目落后于进度计划。在评估方案之后，项目经理得出结论，暂时让最
+活跃的虚拟团队成员集中办公能让项目恢复进度计划。
+项目经理执行的是下列哪一项？
+A.建设项目团队
+B.管理项目团队
+C.优化项目团队
+D.平衡项目团队
+131. At the last minute, a project team implements a new feature that is not included in
+the scope statement. To obtain customer approval, what process should the project manager
+implement next?
+A. Plan Scope Management
+B. Validate Scope
+C. Perform Integrated Change Control
+D. Perform Qualitative Risk Analysis
+131.在最后一刻，项团队实施了范围说明书中未包含的新功能。若要获得客户的批准，项目经理下
+一步应执行哪个过程？
+A.制定范围管理计划
+B.核实范围
+C.执行整体变更控制
+D.执行定性风险分析
+132. During a software project's testing phase, the software functions differently than
+specified in the customer's requirements documentation. To save time, the customer proposes
+that the issues be corrected in the next software update, provided that the project manager
+will allow additional requirements. The project manager accepts the proposal, as the cost
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+overrun will not be high. Later, the project manager realize that the cost overrun is higher
+than expected.
+What process should the project manager have implemented to prevent this issue?
+A. Collect Requirements
+B. Control Quality
+C. Manage Stakeholder Engagement
+D. Defin Scope
+132.在一个软件项目的测试阶段，软件功能与客户需求文件中的规定不同。为节省时间，客户提出
+这个问题可以在下次软件更新时纠正，前提是项目经理将允许增加额外需求。由于成本不会超支很
+多，项目经理接受了这项提议。后来，项目经理发现成本超支情况超出预期。
+若要避免这个问题，项目经理应该事先实施哪个过程？
+A.收集需求
+B.控制质量
+C.管理干系人参与
+D.定义范围
+133. During a project's concept, prototype, development, and testing phases, additional
+funding is requested several times. After the product launch, the budget is updated and
+the project manager determines there is a negative cost variance (CV).
+Which of the following does this indicate?
+A. Original budget is greater than the total cost at completion
+B. Total cost of the project is greater than the planned value (PV)
+C. Total incremental funding exceeded the original budget
+D. Earned value (EV) is greater than the actual cost (AC)
+133.在项目的概念、原型、开发和测试阶段，多次请求提供额外资金。在发布产品后更新预算，项
+目经理确定成本偏差(CY)为负的。
+这表明了下列哪一项？
+A.原始预算大于完工时总项目成本
+B.项目总成本大于计划价值(PV)
+C.总增量资金超出原始预算
+D.净值(EV)大于实际成本(AC)
+134. A project manager takes over a project that is experiencing resistance from various
+stakeholders. What should the project manager do first to resolve the issue?
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A. Meet with each stakeholder separately to identify their specific concerns
+B. Develop a responsibility assignment matrix (RAM) to identify the responsibilities of
+each stakeholder.
+C. Update stakeholder register with revised expectations
+D. Meet with all stakeholders to present the project, establish ground rules ensure their
+involvement, and identify organizational issues.
+134.项目经理接管了一个面对不同干系人抵制的项目。若要解决这个问题，项目经理应该怎么做？
+A.与每名干系人单独开会，确定他们各自的顾虑
+B.制定一份责任分配矩阵(RAU)，确定每名干系人的责任
+C.更新干系人登记册，包含修订的期望
+D.与所有干系人开会介绍项目，制定基本规则，确保干系人的参与，并识别组织方面的问题
+135. A new project in a functional organization is in the initiation phase. The project
+manager experiences challenges in obtaining commitment from all involved resources.
+What is the cause of this situation?
+A. The human resource management plan is in draft form
+B. The project manager did not create a project organization chart
+C. The approved project charter was not communicated to the functional managers
+D. This is a low-risk project for the company
+135.职能型组织的一个新项目处于启动阶段。项目经理正经历获得所有涉及资源承诺参与项目的挑
+战。造成这种情况的原因是什么？
+A.资源管理计划处于草稿形式
+B.项目经理没有创建项目组织图
+C.未与职能经理沟通批准的项目章程
+D.这属于公司的低风险项目
+136. A vendor delivers an outsourced module for a project and asks the project manager for
+a signed formal acceptance. After inspection, the test team discovers a defect in the module.
+The vendors refuses to acknowledge the defect, arguing that the module was developed
+according to the agreed-upon specifications.
+What should the project manager do first?
+A. Refer to the quality assurance plan for resolution
+B. Use the legal system to achieve an equitable resolution
+C. Refer to the contract to confirm if the vendor's claim is valid
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D. Initiate a project change request
+136.供应商交付了项目的外包模块，要求项目经理签署正式验收文件。检查之后，测试团队发现模
+块中存在一个缺陷。但是供应商拒绝承认缺陷，争辩说模块是按照约定技术规范开发的。
+项目经理首先应该怎么做？
+A.查看质量保证计划，获得解决方案
+B.使用法律制度，获得公平解决方案
+C.查看合同，确认供应商的主张是否有效
+D.提出项目变更请求
+137. During a project planning, the project team collects cost estimates, the delivery of
+major components and specific engineering duration. To calculate a distribution of possible
+outcomes for the total project, what technique should the project team use?
+A. Schedule network analysis
+B. Monte Carlo simulation
+C. Critical path method
+D. Resource leveling
+137.在项目规划期间，项目团队收集成本估算，交付主要部件以及具体工程设计时间。若要计算整
+个项目的可能结果分布，项目团队应使用什么技术？
+A.进度网络分析
+B.蒙特卡洛模拟
+C.关键路径法
+D.资源平衡
+138. A project is on schedule and approaching the final delivery date. During a status
+meeting, a stakeholder asks the project manager to include an additional deliverable before
+project closeout. This deliverable was previously discussed, however, there was no
+agreement to include it.
+What should the project manager do first?
+A. Include the deliverable in the project
+B. Perform an impact analysis
+C. Verify the scope statement
+D. Create a change request
+138.一个项目符合进度计划，且接近最终交付日期。在状态会上，干系人要求项目经理在项目收尾
+之前包含一个额外的可交付成果。这个可交付成果之前讨论过，但是没有协议约定:包含该可交付成
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+果。
+项目经理首先应该做什么？
+A.将可交付成果包含进项目中
+B.执行影响分析
+C.核实范围说明书
+D.创建变更请求
+139. A company asks on audit services firm to perform a year-end financial audit. The audit
+service firm's project manager recalls that one of this company's finance managers was
+involved in fraudulent activities last year.
+What should the project manager do?
+A. Advise the audit service firm's lead partner not to take the new business, as it may
+damage the firm's reputation
+B. Assess that there is no risk, as the financial manager no longer works for the company
+C. Start project planning activities
+D. Identify high-level risks and create risk register
+139.一家公司请一家审计服务事务所执行年终财务审计。审计服务事务所的项目经理回忆起这家公
+司的其中一名财务经理去年涉及欺诈行为。
+项目经理应该怎么做？
+A.通知审计服务事务所的主要合伙人不要承接新业务，因为可能影响事务所的声誉
+B.评估不存在风险，因为那名财务经理已不再为该公司工作
+C.开始项目规划活动
+D.识别高层次风险，并创建风险登记册
+140. Who is responsible for reporting the risk response plan’s effectiveness,any
+unanticipated effects,and any correction needed to handle the risk appropriately during
+the Monitor and Control Risks Process?
+A. Risk responser owner
+B. Project Manager
+C. Sponsor
+D. Contract administrator
+140. 在监控风险过程中,谁应该负责汇报风险应对计划的有效性、未曾预料到的后果以及为合理应
+对风险所需采取的任何纠正措施?
+A. 风险应对负责人
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+B. 项目经理
+C. 发起人
+D.合同管理员
+141. Four months after the approval of the project scope, the client requests features that
+will generate changes to the project management plan. What should the project manager do
+next?
+A. Work on the customer's request after completion of the project
+B. Proceed with changes if contingency is available
+C. Process a change request
+D. Consult the risk register to identify a solution
+141.在项目范围批准四个月后，客户请求增加功能，但该请求将可能对项目管理计划产生变更。项
+目经理下一步应该怎么做？
+A.在项目完工之后处理客户的请求
+B.如有应急计划，则进行变更
+C.处理变更请求
+D.查阅风险登记册，确定解决方案
+142. During a meeting, a customer asks for a change in the color of the product. The project
+team agrees it is a minor change with no impact on cost, scope, schedule, or risk. The project
+manager gives verbal approval during the meeting.
+Which of these statements applies to this decision?
+A. Acceptable, provided the project sponsor approves
+B. Unacceptable, because all change requests must be approved by a change control board
+(CCB)
+C. Unacceptable, because a change request must be submitted in writing using a standard
+template
+D. Acceptable, provided the change is documented
+142.在一次会议上，客户要求改变产品的颜色。项目团队同意这是有一个小变更，将不会对成本，
+范围，进度或风险产生影响，会议上，项目经理给予口头批准。
+下列哪一项说法适用这个决定？
+A.可接受，只要项目发起人批准
+B.不可接受，因为所有变更请求均必须获得变更控制委员会(CCB)的批准
+C.不可接受，因为变更请求必须使用标准模版书面提交
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D.可接受，只要已记录变更情况
+143. An unexpected risk occurs during a project. After analyzing the risk, the project
+manager finds that mitigating the risk will be necessary for the project's success but will
+increase the project costs.
+What should the project manager do next?
+A. Obtain senior management's approval for additional project funding
+B. Schedule an emergency project team meeting to discuss why this risk was not included
+in the risk register
+C. Obtain senior management's approval to use the contingency reserves to mitigate the risk
+D. Schedule a meeting with the project team to discuss plans to move the project forward
+143.项目期间发生了意外风险。分析风险之后，项目经理发现为了让项目成功有必要减轻风险，但
+是会增加项目成本。
+项目经理下一步该怎么做？
+A.获得高级管理层的批准，增加项目资金
+B.安排一次紧急项目团队会议，讨论该风险未包含进风险登记册的原因
+C.获得高级管理层的批准，使用应急储备减轻风险
+D.与项目团队安排一次会议，讨论推进项目的计划
+144. Stakeholders ask a project manager about a project's financial status. The current
+cost performance index (CPI) is 0.8 and the schedule performance index (SPI) is 1.2.
+What should the project manager use to determine the project's performance status?
+A. Trend analysis
+B. Completed actions documentation
+C. Project budget status reporting
+D. Performance index calculations
+144.干系人向项目经理询问一个项目的财务状态。目前，成本绩效指数(CPI)为0.8,进度绩效指数
+(SPI) 为1.2。
+项目经理应使用哪一项来确定项目的绩效状态？
+A.趋势分析
+B.已完成工作文档
+C.预算状态报告
+D.绩效指数计算
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+145. After a detailed list of project activities is created, the project manager wants to
+estimate the project's total cost without changing the project's duration or deliverables,
+Which of the following estimating techniques should the project manager use?
+A. Three-Point
+B. Bottom-Up
+C. Analogous
+D. Parametric
+145.在创建项目活动详细清单之后，项目经理希望在不更改项目持续时间或可交付成果的情况下估
+算项目总成本。项目经理应使用下列哪一项估算技术？
+A.三点估算
+B.自下而上
+C.类比估算
+D.参数估算
+146. During testing of a new software program, the test team logs the number of defects
+found each week. The project manager reviews the data to determine if the number of defects
+is within the acceptable limits.
+What tool does the project manager use?
+A. Control chart
+B. Cause and effect diagram
+C. Pareto chart
+D. Histogram
+146.在测试一个新的软件项目集期间，测试团队记录每周发现的缺陷数量。项目经理审查数据确定
+缺陷数量是否处于可接受限值之内。
+项目经理使用的是什么工具？
+A.控制图
+B.因果图
+C.帕累托图
+D.直方图
+147. To complete a product and release it as planned, the project budget must be increased
+significantly. The project sponsor asks for a cost estimate.
+Which method for cost estimation should be used?
+A. Earned value (EV)
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+B. Reserve analysis
+C. Program evaluation and review technique (PERT)
+D. Parametric estimating
+147.为完成一项产品并按计划发布，必须增加大量项目预算。项目发起人要求执行成本估算。应使
+用哪种成本估算方法？
+A.净值(EV)
+B.储备分析
+C.计划评审技术(PERT)
+D.参数估算
+148. In a weak matrix organization, a project manager prepares a project charter with the
+project sponsor, who works for another organization. The functional manager asks the project
+manager to start project planning prior to project charter approval.
+What should the project manager do?
+A. Inform the functional manager of the impact of proceeding without a signed project
+charter.
+B. Ask the project sponsor to sign the project charter to expedite project planning
+C. Advise the project sponsor that changes to the project charter will be incorporated into
+the project management plan at a later time
+D. Ask the functional manager to discuss the request with the project sponsor
+148.在一个弱矩阵型组织中，项目经理与为另一个组织工作的项目发起人一起制作了项目章程。而
+职能经理要求项目经理在项目章程获得批准之前开始项目规划。
+项目经理应该怎么做？
+A.告知职能经理不签署项目章程的后续影响
+B.请求项目发起人签署项目章程加快项目规划速度
+C.通知项目发起人项目章程的变更将在后期包含进项目管理计划中
+D.让职能经理与项目发起人讨论该请求
+149. A project manager prepares the work breakdown structure (WBS) for a new project. Which
+of the following is a valid approach for creating the WBS?
+A. Use subprojects that may be outsourced
+B. Use subcomponents that may be outsourced
+C. Use incremental deliverables as the work package level of the decomposition
+D. Use phases of the project life cycle as the first level of the decomposition
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+149.项目经理为一个新项目制定了工作分解结构(WBS)。下列哪一项是创建WBS 的有效方法？
+A.使用可以外包的子项目
+B.用可以外包的子组件
+C.使用增量可交付成果作为分解的工作包层次
+D.使用项目生命周期的不同阶段作为分解的第一层次
+150. A project management office (PMO) director wants to introduce best practices to an
+organization. A project manager is asked to compare the organization's processes with those
+of its competitors and to recommend the best processes for their organization.
+What tool or technique should the project manager use?
+A. Benchmarking
+B. Expert Judgment
+C. Market analysis
+D. Rool cause analysis
+150.项目管理办公室(PMO)主任希望为一个组织引入最佳实践。要求项目经理将该组织的过程与竞争
+对手的过程进行对比，并为组织建议最佳过程。
+项目经理使用的是什么工具或技术？
+A.标杆对照
+B.专家判断
+C.市场分析
+D.根本原因分析
+151. A company wants to initiate an R&D type project and identifies a list of product features
+for development. The goal is to complete a prototype by the end of the financial year. Initial
+estimates indicate that to deliver all the features, the sponsor's budget and schedule will
+be exceeded.
+What should the project manager revise to meet the company's expectations?
+A. Schedule
+B. Functionality
+C. Charge-out rates
+D. Project charter
+151.一家公司希望启动一个研发项目，并确定了一份产品功能开发清单。其目标是在财政年底结束
+之前完成原型。初始估算表明，若要交付所有功能，将超出发起人的预算和进度计划。
+项目经理应修订哪一项来满足公司的期望？
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A.进度计划
+B.功能
+C.费率
+D.项目章程
+52. A new product is introduced into a foreign country. Six months after the project's
+execution, the business director receives market research data indicating that, due to
+cultural differences, the product will likely not be accepted there. As a result, the
+business director cancels the project and reallocates the remaining budget to other
+initiatives.
+What should the project manager do next?
+A. Conduct a product survey for lessons learned documentation
+B. Update the project management plan
+C. Creats a final project status report
+D. Request formal project closure
+152.一种新产品被引入到某个外国国家。项目执行六个月后，业务总监收到的市场研究数据表明，
+由于文化差异，该产品将有可能不被该国接受。结果，业务总监取消了项目，并将剩余预算重新分
+配给其他计划，项目经理下一步应该怎么做？
+A.执行产品调查，用于经验教训文档
+B.更新项目管理计划
+C.创建最终项目状态报告
+D.请求正式的项目收尾
+153. A software engineer realizes that significant savings in time and effort could achieved
+by rearranging a scheduled task with a non-planned activity. What should the software
+engineer do next?
+A. Rearrange the task without approval
+B. Escalate the issue to the project manager
+C. Ask the supervisor for approval to rearrange the task
+D. Continue with the planned task
+153.软件工程师意识到通过重新安排一项未经规划活动的计划任务，可能节约大量时间和精力。软
+件工程师下一步该怎么做？
+A.在未经批准的情况下重新安排任务
+B.将问题上报给项目经理
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+C.要求主管批准重新安排任务
+D.继续规划任务
+154. The project X is the highest level project in the company's portfolio management system,
+the project manager wants to clarify the scope of the project.
+How should the project manager to do first?
+A. By using file to record which belongs to the scope and which not belongs to, to manage
+the actual level of the scope
+B. Using Pareto method to determine the most popular opinion, and evaluate these opinions
+in the next period
+C. According to identification and influence level of stakeholders, ranking stakeholders,
+and allow the highest ranking stakeholders to set range
+D. Use professional judgment to write the job statement
+项目X 在公司的项目组合管理系统中属于最高级别的项目,项目经理希望澄清项目范围。项目经理
+首先应该怎么办?
+A. 通过利用文件记录哪些属于范围之内,以及哪些属于范围之外,来管理范围的实际水平
+B. 利用帕累托方法,来确定最受欢迎的意见,并在下个阶段评估这些意见
+C. 根据干系人的确定和影响水平,给干系人排名,并允许排名最高的干系人来设定范围
+D. 利用专业判断来编写工作说明书
+155. A project's schedule performance index (SPI) is 0.85. The project sponsor asks the
+project manager to correct the situation.
+What should the project manager do next?
+A. Fast track the project
+B. Crash the project
+C. Calculate cost of schedule compression options
+D. Complete a detailed list identifying causes for the SV and creates a change management
+plan
+155.项目进度绩效指数(SPO)为0.85。项目发起人要求项目经理纠正这种情况。
+项目经理下一步应该怎么做？
+A.快速跟进项目
+B.赶工
+C.计算进度压缩方案的成本
+D.编制详细的清单，识别SV 的原因，并创建变更管理计划
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+156. A company that is sponsoring an expedition hires a project manager to organize and
+lead it. These types of expeditions are not frequent and the project manager must estimate
+the expedition's costs.
+Which of the following techniques should be used to estimate costs for this project?
+A. Three-point estimation
+B. Cost aggregation
+C. Analogous estimation
+D. Expert judgment
+156.一家公司赞助了一支探险队，雇佣一名项目经理来组织和领导探险队。探险队的探险频率不高，
+项目经理必须估算探险队的成本。
+若要估算这个项目的成本，应该使用下列哪一项技术?
+A.三点估算
+B.成本汇总
+C.类比估算
+D.专家判断
+157. A seven-month software development project is one month behind schedule because a
+senior software development resource was reassigned to another project. The project manager
+believed chat the impact would be minimal and, therefore, took no action to manage it.
+What should the project manager have done to manage the impact on the project schedule?
+A. Escalated the issue to the project sponsors
+B. Maintained a risk register and acted the risk when is was triggered
+C. Requested additional resource at the start of the project to prevent later impact on
+the project
+D. Requested an equivalent replacement
+157.一个为期七个月的软件开发项目，由于一名高级软件开发资源被分配到另一个项目，导致落后
+进度计划一个月。项目经理认为影响很小，因此没有采取行动管理。
+项目经理应已完成了哪项措施来管理对项目进度计划的影响？
+A.将问题上报给项目发起人
+B.维护风险登记册，当风险触发时,对该风险采取相应行动
+C.在项目开始时请求额外的资源，以防将来对项目的影响
+D.已请求相同替代资源
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+158. Due to unavoidable circumstances, a project is terminated before it is completed. What
+should the project manager do to close the project?
+A. Prepare the change management documentation
+B. Prepare formal documentation indicating why the project was terminated
+C. Update the benefits realization documentation
+D. Reassign the team members
+158.由于不可避免的情况，项目在完工前终止。收尾项目时，项目经理应该做些什么？
+A.准备变更管理文档
+B.准备正式文档说明项目为何终止
+C.更新效益现实文档
+D.为团队成员重新分配任务
+159. A project is delivered on time, within budget, and according to scope. However, the
+project is considered unsuccessful when the customer submits several claims.
+To what should the project manager have been more attentive at the beginning of the project?
+A. Building a strong and positive relationship with the project sponsor
+B. Establishing a better human resource management plan
+C. Performing stakeholder analysis
+D. Developing a risk register
+159.一个项目按时、按预算、按范围交付。但是，当客户提交了多个索赔后，该项目被认为是失败
+的。在项目开始时，项目经理应该更加注意下列哪一项？
+A.与项目发起人建立更强、更主动的关系
+B.制定一份更好的资源管理计划
+C.执行干系人分析
+D.制定一份风险登记册
+160. A project manager finds that the majority of their time is spent managing customer
+change requests, leaving little time for other project management activities. To control
+this situation, the project manager should do which of the following?
+A. Ask the change control board (CCB) to review all customer change requests in future
+B. Conduct a stakeholder analysis and update the communications management plan based on
+the results
+C. Create a method for processing all customer change requests in a structured way and adhere
+to the project management plan
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D. Record the issue and escalate to the project sponsor
+160.一位项目经理发现，他们的大部分时间都花在管理客户的变更请求，导致没有时间执行其他项
+目管理活动。若要控制这种情况，项目经理应进行下列哪一项？
+A.让变更控制委员会(CCB)审查未来的所有客户变更请求
+B.执行干系人分析，并根据分析结果更新沟通管理计划
+C.创造一种方法，以有条理的方式处理客户的所有变更请求，并遵守项目管理计划
+D.记录问题，并上报给项目发起人
+161. A project sponsor approves the scope for an application development project. What
+should the project manager do to organize the scope into smaller units?
+A. Create an activity list.
+B. Define scope baseline
+C. Develop a work breakdown structure (WBS) dictionary
+D. Perform decomposition
+161.项目发起人批准了一个应用程序开发项目的范围。项目经理应该怎么做将范围组织进更小的单
+元？
+A.创建一份活动清单
+B.定义范围基准
+C.制定一份工作分解结构(WBS)字典
+D.执行分解
+162. During a project's closing phase, a project manager presents the last project
+deliverable land runs the acceptance criteria. However, before accepting the project, the
+customer wants to add extra functionality.
+What should the project manager do next?
+A. Agree to include the requirement
+B. Update the project management plan according to the new request
+C. Review the impact of the change and start the change management process
+D. Reject any changes since the project is in the closing phase
+162.在项目的收尾阶段，项目经理提交了最后一个项目可交付成果，并运行验收标准。但是，在验
+收项目之前，客户希望增加额外功能。
+项目经理下一步该怎么做？
+A.同意包含该需求
+B.按照新的请求更新项目管理计划
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+C.审查变更影响，并开始变更管理过程
+D.因为项目处于收尾阶段，拒绝任何变更
+163. A customer needs assurance that the project team has a clear plan for delivering a
+satisfactory. quality product. Which of the following documents should the project manager
+provide to the customer?
+A. Project charter
+B. Scope management plan
+C. Quality management plan
+D. Quality metrics
+163.一家客户需要项目团队保证拥有明确的计划，交付令人满意的高质量产品。项目经理应该向客
+户提供下列哪一项？
+A.项目章程
+B.范围管理计划
+C.质量管理计划
+D.质量测量指标
+164. A project manager finds that a project's cost performance index (CPI) is 1.2 and its
+schedule performance index (SPI) is 0.79. Which of the following actions should the project
+manager pursue?
+A. Crashing
+B. Fast tracking
+C. Delphi technique
+D. Monte Carlo simulation
+164.项目经理发现项目的成本绩效指数(CPI)为1.2,进度绩效指数(SPI)为0.79，项目经理应采取下
+列哪一项行动？
+A.赶工
+B.快速跟进
+C.德尔菲技术
+D.蒙特卡洛模拟
+165. During a project's execution phase, a change is approved which requires additional
+resources with skills not currently available within the project. What asset should be
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+revised to define the new resource requirements?
+A. Project organization chart
+B. RACI chart
+C. Staffing management plan
+D. Resource calendar
+165.在项目执行阶段，一项变更已获得批准，但要求具有当前项目团队中没有的额外技能资源，应
+修改哪项资产以便定义新的资源需求？
+A.项目组织图
+B.RACI 图
+C.人员配备资源管理计划
+D.资源日历
+166. A company, s system is being implemented. After an analysis of incidents registered
+by the help desk, the project manager builds a histogram with these results.
+This activity and its frequency should be described in which of the following?
+A. Risk response plan
+B. Quality management plan
+C. Quality audit plan
+D. Schedule management plan
+166.一家公司的系统正在实施过程中，在对服务台登记的事件进行分析之后，项目经理利用这些结
+果制作了一份直方图。
+这项活动及其频率应描述为下列哪一项？
+A.风险应对计划
+B.质量管理计划
+C.质量审计计划
+D.进度管理计划
+167. A supplier proposes a change that the project team opposes. What should the project
+manager do first to settle the dispute?
+A. Evaluate options for changing suppliers
+B. Enforce the supplier's contract terms
+C. Start an audit process to verify compliance
+D. Use negotioations
+167.供应商提出一项项目团队反对的变更。若要解决纠纷，项目经理首先应该怎么做？
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A.评估更换供应商的方案
+B.执行供应商的合同条款
+C.开始审计过程核实合规性
+D.采用谈判
+168. A company is awarded a contract to develop a product's manufacturing assembly line.
+The customer has concerns regarding a potential risk to a critical component.
+Which of the following will help the team move to the project1 s design phase?
+A. Develop a prototype
+B. Perform benchmarking
+C. Conduct a customer workshop
+D. Conduct Six Sigma analysis
+168.公司获得一项合同，开发一种产品的生产组装线。客户对一个关键组件的潜在风险十分担心。
+下列哪一项将帮助团队进入项目的设计阶段？
+A.开发阶段
+B.执行标杆对照
+C.召开客户研讨会
+D.开展六西格玛分析
+169. Eight full-time team members located in several offices have been working on a project
+for 12 months. The project manager uses crashing to accelerate the project. One week after
+the project, manager's actions, management decides the project can no longer continue and
+stops funding the project.
+What should the project manager do next?
+A. Start the project's closeout
+B. Request additional funding from the sponsor to fast track the project
+C. Request a new project assignment
+D. Accept the completed deliverables and release the resources
+169.八名全职团队成员位于多个不同办公地点，已经为一个项目工作12 个月。项目经理使用赶工来
+加速项目进度。在项目经理采取行动的一周后，管理层决定不再继续执行该项目，并停止为项目提
+供资金。项目经理下一步应该怎么做？
+A.开始项目收尾
+B.请求项目发起人提供额外资金快速跟进项目
+C.请求分配新项目
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D.验收已完成的可交付成果，并解散资源
+170. A project with a budget of US$800,000 is 40 percent complete and US$360,000 has already
+been spent.
+According to the actual performance and based on the cost index, what should the To-Complete
+Performance Index(TCPI) be to comply with the budget, and cost baseline?
+A. 0.89
+B. 0.9
+C.1.1
+D. 2.19
+170.一个预算为800,000美元的项目已完成40%, 已花费360,000美元的预算。
+按照实际绩效并根据成本指数，若要符合预算和成本基准，完工尚需绩效指数(TCPI)应为多少？
+A.0.89
+B.0.9
+C.1.1
+D.2.19
+171. A company wants to build a device to improve the performance of its best-selling
+products. The project manager reviews potential vendors that could product the device.
+What process is the project manager performing?
+A. Conduct Procurements
+B. Negotiate Procurementa
+C. Control Procurements
+D. Plan Procurement Management
+171.一家公司希望制造一种装置，改进其销量最高产品的性能。项目经理审查可能生产该装置的潜
+在供应商。
+项目经理执行的是哪一个过程？
+A.实施采购
+B.协商采购
+C.控制采购
+D.制定采购管理计划
+172. After a component supplier goes out of business, a project manager review the following
+alternatives.
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+Alternative A requires and investment of US$30,000, with a 70 percent chance of
+compatibility with the current prototype and revenues of US$300,000. If the component
+provides only partial functionality, revenues would be US$160,000.
+Alternative B requires an investment of US$20,000, with a 60 percent chance of
+incompatibility with the current prototype and revenues of USI120,000. If solution B fully
+works, revenus could be US$400,000.
+What is the expected monetary value (EMV) of the best alternative?
+A. US$189,000
+B. US$212,000
+C. US$228,000
+D. US$270,000
+172.在一个部件供应商倒闭后，项目经理审查了以下可选方案：
+方案 A要求投资30,000美元，与当前原型有70%的兼容机会，会产生300,000 美元的收入。如果部
+件仅提供部分功能，则收入将为160,000美元。
+方案 B要求投资20,000美元，与当前原型有60%的不兼容机会，会产生120,000 美元的收入；如果
+方案B完全可行的话，收入可能达到400,000美元。
+那么最佳可选方案的预期货币价值(EMV)是多少？
+A.189,000美元
+B.212,000美元
+C.228,000美元
+D.270,000美元
+173. For a manufacturing project, the project manager lists valid metrics for the quality
+management plan. Which of the following should be used?
+A. Subcontractor terms and conditions, tornado analysis, and Gantt charts
+B. Risk register, quality checklists, and quality management plan
+C. Defect density, availability, on-time delivery, and PERT charts
+D. Defect density, failure rate, availability, reliability, and test coverage
+173.对于一个制造项目，项目经理列出质量管理计划的有效测量指标。应使用下列哪一项？
+A.分包商条款和条件、龙卷风分析和甘特图
+B.风险登记册、质量核对表和质量管理计划
+C.缺陷密度、可用性、按时交付和PERT图
+D.缺陷密度、故障率、可用性、可靠性和测试覆盖
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+174. A project manager is managing a systems project across multiple countries. In project
+progress meetings, the project manager realizes that project team members across these
+various location are not aligned on progress, which may impact dependencies.
+What should the project manager do address this?
+A. Appoint sub-project managers to do weekly project status updates for each location
+B. Assign work so each location does not need to interact with the other
+C. Use a common project management information system (PMIS)
+D. Colocate all project team members
+174.项目经理正在管理一个跨越多国的系统项目。在项目进度会上，项目经理发现这些不同地理位
+置的项目团队成员进度各不一致，而这可能影响依赖关系
+为解决这种情况，项目经理应该怎么做？
+A.指定子项目经理为每个地理位置执行每周项目状态更新
+B.分配工作，让每个地理位置都不需要与其他地理位置互动
+C.使用一个共同的项目管理信息系统(PMIS)
+D.让所有项目团队成员集中办公
+175. A project manager finds that a project's planned value (PV) is US$120 million, its
+earned value (EV) is US$6 million, and its actual cost (AC) is US$60 million. Which of the
+following describes the project's completion status?
+A. The project is ahead of schedule and on budget
+B. There is not enough information to calculate the cost performance index (CPI)
+C. The project is behind schedule and over budget
+D. The project is behind schedule and on budget
+175.项目经理发现项目的计划价值(PV)为1.2亿美元，净值(EV)为600万美元，实际成本(AC)为6000
+万美元。下列哪一项描述了项目的完成状态？
+A.项目超前于进度，并符合预算
+B.信息不足，无法计算成本绩效指数(CPI)
+C.项目落后于进度，并超出预算
+D.项目落后于进度，但符合预算
+176. A former project manager had difficulty handling conflicts between the project sponsor
+and operating manager. How might the new project manage handle this situation?
+A. Review the previous stakeholder register log and use the power/interest grid
+B. Compromise with the project sponsor
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+C. Resolve the conflict using decision-making power
+D. Ensure all project stakeholders share the same objectives and interests
+176.前任项目经理对处理项目发起人和运营经理之间的冲突有困难。新项目经理应如何更好地处理
+这种情况？
+A.审查之前的干系人登记册，并使用权力/利益方格
+B.向项目发起人妥协
+C.使用决策权力解决冲突
+D.确保所有项目干系人分享相同的目标和利益
+177. During the approval of a project management plan, the project sponsor identifies an
+external risk overlooked by the project team. What should the project manager do?
+A. Plan the risk response
+B. Identify risk and mitigation activities
+C. Add the risk to the risk register and ask the project team to review the project management
+plan to consider ist significance
+D. Ask the project sponsor to submit a formal change request and present to other
+stakeholders.
+177.在批准项目管理计划期间，项目发起人识别到一个被项目团队忽略的外部风险。项目经理应该
+怎么做？
+A.制定风险应对计划
+B.识别风险和风险减轻活动
+C.将风险添加进风险登记册，并要求项目团队审查项目管理计划，考虑该风险的重要性D.要求项目
+发起人提交一份正式的变更请求，并提供给其他项目干系人
+178. A new project is being evaluated for viability. Major project stakeholders are
+identified and the project's high-level concept is developed and agreed upon.
+What is the next step for starting this new project?
+A. Define the scope
+B. Plan cost management
+C. Develop the project charter
+D. Define the project management plan and deliverables
+178.正在评估一个新项目是否有可行性。主要项目干系人已经识别完成，并已经制定并对项目的高
+层次概念达成一致意见。
+开始这个新项目的下一个步骤是什么？
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A.定义范围
+B.制定成本管理计划
+C.制定项目章程
+D.定义项目管理计划和可交付成果
+179. Contractors are hired during a project's initial phase. The project stakeholders
+approves a limited budget for this phase. The project manager knows that this phase will
+not require any scope changes.
+Which type of contract should be used?
+A. Firm fixed price (FFP)
+B. Cost plus fixed fee (CPFF)
+C. Fixed price incentive fee (FPIF)
+D. Cost plus award fee (CPAF)
+179.承包商是在项目初始阶段聘用的。项目干系人批准了该阶段的有限预算。项目经理知道该阶段
+不要求任何范围变更。
+应该使用哪一个合同类型？
+A.固定总价合同(FFP)
+B.成本加固定费有合同(CPFF)
+C.总价加激励费用合同(FPIF)
+D.成本加奖励费用合同(CPAF)
+180. A new project manager reviews a project's documentation, information, and data.
+Concerned about project delays, the new project manager wants to identify relationships
+between the variables.
+What tool should the project manager use to determine if changes should be made to the
+project?
+A. Ishikawa diagram
+B. Control chart
+C. Histogram
+D. Scatter diagram
+180.一名新项目经理审查了项目的文档，信息和数据。因为担心项目延迟，新项目经理希望识别变
+量之间的关系。
+项目经理应该使用什么工具来确定是否应该对项目进行变更？
+A.石川图
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+B.控制图
+C.直方图
+D.散点图
+181. After delivering a new computer, application to an external customer, the customer
+asks for supplemental system documentation. What should the project manager do first?
+A. Check if contingency reserves are sufficient for the change.
+B. Update the project budget and schedule to include the change
+C. Ask the customer to submit a change request.
+D. Ask the project team to provide the requested documentation.
+181.向外部客户交付新计算机应用程序后，客户要求补充系统文档。项目经理首先应该做什么？
+A.检查应急储备是否足以进行变更
+B.更新项目预算和进度计划包含变更
+C.要求客户提交变更请求
+D.要求项目团队提供请求的文档
+182. A project manager mediates a disagreement between two project team members. What
+conflict resolution technique will bring some degree of satisfaction to both parties and
+temporarily delay the conflict?
+A. Compromise/ Reconclie
+B. Smooth/Accommodate
+C. Force/Direct
+D. Collaborate/Problem Solve
+182.项目经理调停了两名项目团队成员之间的分歧。哪一种冲突解决技术将对双方都带来某种程度
+的满意度并暂时延迟冲突？
+A.妥协/调和
+B.缓解/包容
+C.强迫/命令
+D.合作/解决问题
+183. A project manager identifies a risk of a major project delay. The delay is due to poor
+communications and the customer's inability to perform the assigned tasks on time.
+What should the project manager do first?
+A. Update the schedule management plan
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+B. Update the communications management plan
+C. Update the risk management plan to monitor this new risk
+D. Notify the customer about the risk and plan preventive actions
+183.项目经理识别到一个重大项目延期风险，该延期是由于缺乏沟通，导致客户无法按时执行所分
+配的任务。
+项目经理首先应该做什么？
+A.更新进度管理计划
+B.更新沟通管理计划
+C.更新风险管理计划，监测这个新风险
+D.通知客户相关风险，并计划预防措施
+184. On a six-month project, project stakeholders experience difficulty tracking progress
+and understanding the required work. To provide accurate status reports to project
+stakeholders, what should the project manager use to show the project's progress?
+A. Milestone chart
+B. Work breakdown structure (WBS)
+C. Work performance data
+D. Bar chart
+184.在一个为期六个月的项目上，项目干系人经历了难以跟踪项目进度情况和了解所需工作方面的
+困难。为了向项目干系人提供准确的状态报告，项目经理应使用下列哪一项来显示项目的进展情况。
+A.里程碑图
+B.工作分解结构(WBS)
+C.工作绩效数据
+D.横道图
+185. A key user representative involved in product validation activities proposes changes
+to some tasks and deliverables outlined in the project's methodology. These changes would
+considerably impact the validation strategy defined during the planning phase.
+What should the project manager do first?
+A. Remove the key user representative from the validation team
+B. Include the project management office (PMO) in the discussion
+C. Send an e-mail to the key user representative with the agreed-upon methodology outlined
+in the planning phase
+D. Maintain authority and ensure the validation strategy is executed as planned
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+185.参与产品核实活动的一名关键用户代表提出对项目方法中所述的一些任务和可交付成果进行变
+更，这些变更将对规划阶段所定义的核实策略造成相当大的影响。
+项目经理首先应该做什么？
+A.将该关键用户代表从核实团队开除
+B.将项目管理办公室(PM0)包含进讨论中
+C.向关键用户代表发送一封电子邮件，并附上规划阶段中所述的约定方法
+D.保留职权，并确保按计划执行核实策略
+186. During the planning process, a project team identifies a risk of quality nonconformance
+prepares an action plan for this risk. To avoid nonconformance during project execution,
+the project manager should do which of the following?
+A. Risk assessment
+B. Risk mitigation
+C. Risk prioritization
+D. Risk transference
+186.在规划中，项目团队识别到一个质量不合格风险，并为这个风险准备了一份行动计划。若要避
+免项目执行过程中的不合格，项目经理应进行下列哪一项？
+A.风险评估
+B.风险减轻
+C.进行风险优先排序
+D.风险转移
+187. While working on the project management plan for a project, the project manager realizes
+the high-level requirements in the project charter are unclear. To which plan should the
+project manager pay special attention?
+A. Change management plan
+B. Human resource management plan
+C. Procurement management plan
+D Communications management plan
+187.在为一个项目制定项目管理计划时，项目经理发现项目章程中的高层次需求不明确。项目经理
+应特别注意哪项计划?
+A.变更管理计划
+B.资源管理计划
+C.采购管理计划
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D.沟通管理计划
+188. A client is dissatisfied with a product's quality. The project manager receives a chart
+from the quality team indicating that a small number of sourced caused most of the problems,
+The quality team provided the project manager with which of the following?
+A. Scatter diagram
+B. Run chart
+C. Pareto diagram
+D. Control chart
+188.客户对产品质量不满意。项目经理收到一份质量团队提供的图表，图表表明少量的原因导致大
+部分的问题。
+质量团队向项目经理提供的是下列哪一项？
+A.散点图
+B.趋势图
+C.帕累托图
+D.控制图
+189. After collecting requirements and defining the project scope, the project manager
+realizes that there is insufficient information to establish a cost estimate. However, the
+project manager knows of several ongoing and past projects with similar characteristics.
+What should the project manager perform next?
+A. Analogous estimate
+B. Bottom-up estimate
+C. Rough order of magnitude estimate
+D. Expert judgment
+189.经过收集需求和定义项目范围，项目经理意识到制定成本估算的信息不足。但是，项目经理了
+解几个具有类似特性的现有和过往项目。
+项目经理下一步应该执行下列哪一项？
+A.类比估算
+B.自下而上估算
+C.粗略量级估算
+D.专家判断
+190.Which document provides of framework for a cost estimate?
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+A. Project management plan
+B. Work breakdown structure (WBS)
+C. Risk management plan
+D. Scope baseline
+190.哪一份文件提供了成本估算框架？
+A.项目管理计划
+B.工作分解结构(WBS)
+C.风险管理计划
+D.范围基准
+191. For six weeks, a project team works extra hours to complete a critical project
+deliverable. The deliverable is completed on time and meets the customer's specifications.
+However, many team members are concerned about tesion in the group.
+What should the project manager do next?
+A. Organize an appreciation event involving recognition and rewards
+B. Organize a meeting to assign new tasks to the team members
+C. Involve the human resource manager to resolve the situation
+D. Ask the team members to express their concerns in a team meeting
+191.六周以来，一个项目团队一直加班工作，完成一项至关重要的项目可交付成果。可交付成果按
+时完成,并满足客户的技术规范要求。但是，许多团队成员对团队中存在的紧张气氛十分担心。
+项目经理下一步应该怎么做？
+A.组织涉及表彰和奖励的答谢活动
+B.安排一次会议，将新任务分配给团队成员
+C.让人力资源经理参与解决这种情况
+D.在团队会议上让团队成员表达他们关心的问题
+192. A company is pursuing an aggressive growth strategy. The government introduces a
+program to address climate change concerns, however, the company determines that its current
+application systems cannot meet the government's requirements. The company initiate a
+project to update these systems and a project manager develops a business case to support
+it.
+What is the main reason for initiating this project?
+A. Implementing new technology
+B. Complying with legislative requirements
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+C. Upgrading application systems
+D. Expanding market share to grow the company
+192.一家公司正在实行积极的发展战略。政府推出了一项解决气候变化问题的计划，然而该公司确
+定其目前的应用系统不能满足政府的需求。公司启动了一个项目更新这些系统，且项目经理制作了
+一份商业论证来支持这个项目。
+启动这个项目的主要原因是什么？
+A.实施新技术
+B.遵守法律需求
+C.升级应用系统
+D.扩大市场份额，发展壮大公司
+193. A project management office (PMO) is presented with three project choices for
+implementation. Project A has an internal rate of return (IRR) of 12%, project B has a
+schedule performance index (SPI) of 0.8, and project C has a benefit-cost ratio (BCR) of
+1.2.
+Based on this information, which of the following projects should be pursued?
+A. Project B
+B. Project C and B
+C. Project A
+D. Project C
+193.项目管理办公室(PMO)有三个项目可供选择实施。项目A 的内部收益率(IRR)为12%,项目B 的进
+度绩效指数(SPI)为0.8;项目C的效益-成本比(BCR)为1.2。
+根据这个信息，应选择实施下列哪一个项目？
+A.项目B
+B.项目C和B
+C.项目A
+D.项目C
+194. A project manager is notified that a software developer for a critical section of code
+will be out of the office for three weeks. This task is not part of the critical path.
+What should the project manager do next?
+A. Continue with the tasks as stated in the project schedule
+B. Apply the responses described in the risk register
+C. Secure a backup resource with this skill
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+D. Check the contingency plan
+194.项目经理得到通知，代码的关键部分软件开发人员将离开办公室三周时间。这项活动不属于关
+键路径。项目经理下一步应该怎么做？
+A.按照项目进度计划的规定继续任务
+B.应用风险登记册中所述的应对策略
+C.获得拥有该技能的备用资源
+D.检查应急计划
+195. During the customer's final acceptance of deliverables, the project manager encounters
+opposition from a local group. The project managers company conducts a root cause analysis
+and discovers that the project did not adequately consider environmental factors for the
+project. During which process should this have been completed?
+A. Initiating
+B. Monitoring and Controlling
+C. Planning
+D. Executing
+195.在客户最终验收可交付成果期间，项目经理遭遇到地方团体的反对意见。项目经理所在公司开
+展了一次根本原因分析，并发现项目并未充分考虑项目的环境因素。
+这本应该在哪一个过程中完成？
+A.启动
+B.监控
+C.规划
+D.执行
+196. Phase one of a project is on schedule and close to completion. Phase two is dependent
+upon phase one's completion. The technical team finds a defect and the project manager
+determines that the defect must be repaired before continuing the project.
+What should the project manager do first?
+A. Update the project management plan to include the repair work without impacting the
+schedule.
+B. Submit a change request to be reviewed and approved by the change control board (CCB)
+C. Meet with the project team to review the findings and determine the next action required
+D. Add repair work to the risk register and recalculate probability of success
+196.项目第一阶段符合进度计划，且接近完成。第二阶段取决于第一阶段的完成。技术团队发现一
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+个缺陷，且项目经理确定必须修补这个缺陷才能继续项目。
+项目经理首先应该怎么做？
+A.变更项目管理计划，在不影响进度计划的情况下包含缺陷修补工作。
+B.向变更控制委员会(CCB)提交变更请求，供其审查和批准。
+C.与项目团队开会，审查发现结果，并确定所需的下一步行动。
+D.将修补工作添加进风险登记册，并重新计算成功概率。
+197. At the start of a project there are 20 stakeholders. Later, two more stakeholders are
+added. What is the number of additional communication channels?
+A. 2
+B. 41
+C. 190
+D. 231
+197.项目开始时有20 名项目干系人。后来又增加了两名干系人。
+那么增加的沟通渠道数量是多少？
+A. 2个
+B.41个
+C.190个
+D.231个
+198. As a result of the Control Quality process, change requests are generated and approved
+by the change control board. What should the project manager do next?
+A. Evaluate the change requests with the change control board
+B. Schedule the implementation of the approved changes
+C. Evaluate the risk if the changes are not implemented
+D. Perform a root cause analysis to identify the sources of the changes
+198.作为控制质量过程的结果，产生变更请求，并由变更控制委员会批准。项目经理下一步该怎么
+做？
+A.与变更控制委员会一起评估变更请求
+B.安排批准变更的实施
+C.评估如果不实施变更的风险
+D.执行根本原因分析确定变更的缘由
+199. After indentifying a risk that will negatively impact a project, the project team
+清晖项目管理PMP 复习测试题五
+www.changeway.com.cn 400-880-5680
+contracts an insurance company to manage the risk effects, Which of the following risk
+strategies was used?
+A. Avoid
+B. Transfer
+C. Mitigate
+D. Share
+199.识别到一个将对项目产生负面影响的风险后，项目团队在一家保险公司投保来管理风险影响。
+这使用的是下列哪一项风险策略？
+A.回避
+B.转移
+C.减轻
+D.分享
+200. During a project kick-off meeting, the project sponsor asks for several changes related
+to the scope, schedule, and human resources assigned to the project. The project team
+realizes that the planning work was improperly completed.
+What best practice should the project manager have implemented to prevent this?
+A. Updated the documentation to project baselines.
+B. Scheduled periodic planning meetings with all key project stakeholders
+C. Sent minutes of the project meetings to the project sponsor
+D. Registered the project sponsor's requests in the issue log
+200.在项目启动大会上，项目发起人要求对范围，进度和分配给项目的人力资源进行多项变更。项
+目团队发现规划工作没有正确完成。
+若要防止这个问题，项目经理应该事先实施並最佳实践是什么？
+A.将文档更新至项目基准
+B.定期安排与所有关键项目干系人召开规划会议
+C.向项目发起人发送项目会议纪要
+D.将项目发起人的请求登记在问题日志中
