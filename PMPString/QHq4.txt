@@ -2328,7 +2328,7 @@ A. 0 days
 B. 1 day
 C. 2 days
 D. 3 days
-180,根据进度计划，活动2 的完工延迟三天，这将对项目的交付日期造成多少天的影响？
+180.根据进度计划，活动2 的完工延迟三天，这将对项目的交付日期造成多少天的影响？
 活动 持续时间（天） 依赖关系
 1 5
 2 9 1,FS
@@ -2337,10 +2337,10 @@ D. 3 days
 3,FS
 5 10 4,FS
 6 12 4,FS
-A.0 天
+A.0天
 B.1天
 C.2天
-D.3 天
+D.3天
 181. A product is delivered on time, delivered within cost, and meets quality expectations.
 However, the project team is not sure if the product produced meet the client’s requirements.
 Which of the following explains this situation?
