@@ -32,9 +32,11 @@ def DoDump():
 		verfile.close()
 
 	svn = SvnDump(svnrepositories,name,version,dumppath)
-	version = svn.Dump()
+	newversion = svn.Dump()
 	verfile = open(savefilepath, 'w')
-	verfile.write(version)
+	if newversion > version:
+		version = newversion
+		verfile.write(version)
 	verfile.close()
 
 def main():
