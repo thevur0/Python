@@ -1,0 +1,1 @@
+pyinstaller -F -w tkintertest.py
