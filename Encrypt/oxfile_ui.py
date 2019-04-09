@@ -1,6 +1,11 @@
 from tkinter import *
 from tkinter.filedialog import askdirectory
-
+from oxfile_py3 import DealwithFIle
+import os
+import sys
+import string
+import datetime
+import time
 class Application(Frame):
     def __init__(self, master=None):
         Frame.__init__(self, master)
@@ -39,7 +44,7 @@ class Application(Frame):
         self.btnBrowse2.pack(side=LEFT, padx=5)
 
         self.fm3 = Frame(self)
-        self.btn = Button(self.fm3,text="转换")
+        self.btn = Button(self.fm3, text="转换", command=self.Trans)
         self.fm3.pack(side=TOP, expand=YES, fill='x', padx=10, pady=4)
         self.btn.pack(fill='x')
 
@@ -52,7 +57,27 @@ class Application(Frame):
     def selectPath2(self):
         path = askdirectory()
         self._path2.set(path)
- 
+
+    def Trans(self):
+        path1 = self._path1.get()
+        path2 = self._path2.get()
+        if os.path.isfile(path1) and not os.path.isdir(path2):
+            dwFile = DealwithFIle(path1, path2)
+            dwFile.modify()
+            pass
+        elif os.path.isfile(path1) and os.path.isdir(path2):
+            savePath = os.path.join(path2, os.path.basename(path1))
+            dwFile = DealwithFIle(path1, savePath)
+            dwFile.modify()
+            pass
+        elif os.path.isdir(path1) and os.path.isdir(path2):
+            for root, dirs, files in os.walk(path1):
+                for onefile in files:
+                    savePath = os.path.join(path2, os.path.basename(onefile))
+                    dwFile = DealwithFIle(os.path.join(root, onefile), savePath)
+                    dwFile.modify()
+            pass
+        pass
 
 if __name__ == '__main__':
     app = Application()
