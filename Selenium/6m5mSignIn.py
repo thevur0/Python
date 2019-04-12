@@ -13,7 +13,7 @@ browser.get(url)
 #verfile = open("C:/Test.txt", 'w', encoding="utf-8")
 #verfile.write(browser.page_source)
 #verfile.close()
-
+browser.find_element_by_name
 browser.find_element_by_xpath("//*[@id='txt_account']").clear()  # 清空输入框
 browser.find_element_by_xpath("//*[@id='txt_account']").send_keys("thevur")  # 输入账号
 time.sleep(1)

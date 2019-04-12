@@ -23,36 +23,46 @@ class SignIn:
             if 'url' in item:
                 self.OpenUrl(item['url'])
             elif 'text' in item:
-                self.SendText(item['id'], item['text'])
+                self.SendText(self.GetCtrl(item), item['text'])
             elif 'click'in item:
-                self.SendClick(item['id'])
+                self.SendClick(self.GetCtrl(item))
             elif 'sleep'in item:
                 self.Sleep(item['sleep'])
-        
+    def GetCtrl(self,item):
+        if 'id' in item:
+            ctrl = self._browser.find_element_by_id(item['id'])
+        if 'name' in item:
+            ctrl = self._browser.find_element_by_name(item['name'])
+        return ctrl
+    
     #打开某个网址
     def OpenUrl(self,url):
         self._browser.get(url)
 
-    def SendText(self,id,text):
-        ctrl = self._browser.find_element_by_id(id)
-        #if not ctrl：
-           # return
-
-        if not ctrl.is_displayed():
-            js = "document.getElementById(\"pwd_password\").style.display='block';"
-            # 调用js脚本
-            self._browser.execute_script(js)
-            time.sleep(0.5)
+    def SendText(self,ctrl,text):
+        
+        try:
+            if not ctrl.is_displayed():
+                js = "document.getElementById(\"pwd_password\").style.display='block';"
+                # 调用js脚本
+                self._browser.execute_script(js)
+                time.sleep(0.5)
+            pass
+        except expression as identifier:
+            print("ctrl is None")
+            pass
 
         ctrl.clear()
         ctrl.send_keys(text)
 
-    def SendClick(self, id):
-        ctrl = self._browser.find_element_by_id(id)
-        #if not ctrl：
-            #return
-        ctrl.click()
-
+    def SendClick(self, ctrl):
+        try:
+            ctrl.click()
+            pass
+        except expression as identifier:
+            print("ctrl is None")
+            pass
+        
     def Sleep(self,second):
         time.sleep(second)
 
