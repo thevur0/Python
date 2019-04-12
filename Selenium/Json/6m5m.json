@@ -1,0 +1,24 @@
+ [
+    {
+        "url": "http://www.6m5m.com/login.html"
+    },
+    {
+        "text": "thevur",
+        "id": "txt_account"
+    },
+    {
+        "text": "Lhy123456",
+        "id": "pwd_password"
+    },
+    {
+        "click": " ",
+        "id": "user_login_btn"
+    },
+    {
+        "url": "http://www.6m5m.com/index.php"
+    },
+    {
+        "click": " ",
+        "id": "add_follow_"
+    }
+]

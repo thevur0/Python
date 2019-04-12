@@ -6,7 +6,7 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "args": ["F:/a","F:/b"]
+            "args": ["${workspaceFolder}/Selenium/Json/6m5m.json"]
         },
         {
             "name": "Python: Attach",

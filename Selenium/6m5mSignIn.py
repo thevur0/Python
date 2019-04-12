@@ -4,10 +4,10 @@ from bs4 import BeautifulSoup
 import time
 import keyword
 
-url = 'http://www.6m5m.com/login.html'
 #初始化浏览器
 browser = webdriver.Chrome()
 #打开某个网址
+url = 'http://www.6m5m.com/login.html'
 browser.get(url)
 
 #verfile = open("C:/Test.txt", 'w', encoding="utf-8")
@@ -17,7 +17,6 @@ browser.get(url)
 browser.find_element_by_xpath("//*[@id='txt_account']").clear()  # 清空输入框
 browser.find_element_by_xpath("//*[@id='txt_account']").send_keys("thevur")  # 输入账号
 time.sleep(1)
-#pwtextctrl1 = browser.find_element_by_id('txt_password')
 pwtextctrl2 = browser.find_element_by_id('pwd_password')
 
 if pwtextctrl2.is_displayed():
