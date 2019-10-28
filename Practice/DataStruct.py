@@ -61,9 +61,24 @@ name = list('Hello')
 name[len(name):] = ' World'
 print(name)
 
-numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+numbers = [1, 2, 3, 4, 5, 6, 7, 8]
+numbers.insert(0,0)
+numbers.append(9)
+numbers.append(10)
+numbers.pop()
 numbers[0:4:1] = []
 print(numbers, numbers.index(7))
 
+x = [4, 6, 2, 1, 7, 9]
+y = sorted(x)
+print(y)
+print(x)
+x.sort()
+x.reverse()
+print(x)
 
-
+print((1,2,3))
+print(3 * (40 + 2,))
+print(tuple([1, 2, 3]))
+x = 1, 2, 3
+print(x[1],x[0:2])
