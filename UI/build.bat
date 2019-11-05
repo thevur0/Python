@@ -1,1 +1,1 @@
-pyinstaller -F -w tkintertest.py
+pyinstaller -F -w -i favicon.ico UnityFolderLink.py
