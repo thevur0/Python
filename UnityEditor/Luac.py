@@ -3,6 +3,7 @@ import sys
 import threading
 
 class LuacThread (threading.Thread):
+    listLuac={}
     def __init__(self, threadID, name, counter):
         threading.Thread.__init__(self)
         self.threadID = threadID
@@ -14,7 +15,7 @@ class LuacThread (threading.Thread):
         print ("退出线程：" + self.name)
 
 class Luac:
-    listLuac = {}
+    allListLuac = {}
     def __init__(self,luaPath,luacPath):
         if not os.path.exists(luacPath):
             os.makedirs(luacPath)
@@ -26,7 +27,7 @@ class Luac:
                     fullPath = os.path.join(root,luafile)
                     luacName = fullPath.replace(luaPath+'\\','').replace('\\','.')
                     print(os.path.join(luacPath,luacName))
-                    self.listLuac[fullPath]=luacName
+                    self.allListLuac[fullPath]=luacName
         
         try:
             for i in range(0,10)：

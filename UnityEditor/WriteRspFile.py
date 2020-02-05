@@ -50,11 +50,9 @@ class WriteRspFile:
                 fp.write('-define:%s\n'%defineName)
             
 if __name__ == "__main__":
-    raise Exception("sdfsadfasf")
-
     assetPath = sys.argv[1]
     rspName = sys.argv[2]
-    defineNames = sys.argv[3:]
+    defineNames = sys.argv[3].split('|')
     writeRsp = WriteRspFile(assetPath,rspName,defineNames)
     pass
     
