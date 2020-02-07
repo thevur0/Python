@@ -22,7 +22,3 @@ class DeleteFile:
                     os.remove(fullname)
         pass
     pass
-
-if __name__ == "__main__":
-    deletefile = DeleteFile(sys.argv[1])
-    pass
