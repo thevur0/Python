@@ -1,6 +1,6 @@
 import sys,io,ftplib,os
 
-class SVNUpload:
+class FTPUpload:
     def __init__(self,host,username,password,localpath):
         self.host = host
         self.username = username
@@ -53,9 +53,9 @@ class SVNUpload:
         
 
 def main():
-    #svnload = SVNUpload("127.0.0.1","user","password","E:\Test")
-    svnload = SVNUpload(sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4])
-    svnload.Upload()
+    #ftpload = FTPUpload("127.0.0.1","user","password","E:\Test")
+    ftpload = FTPUpload(sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4])
+    ftpload.Upload()
 
 if __name__ == '__main__':
     main()

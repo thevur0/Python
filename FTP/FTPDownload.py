@@ -1,6 +1,6 @@
 import sys,io,ftplib,os
 
-class SVNDownload:
+class FTPDownload:
     def __init__(self,host,username,password,localpath):
         self.host = host
         self.username = username
@@ -38,9 +38,9 @@ class SVNDownload:
         
 
 def main():
-    #svnload = SVNDownload("127.0.0.1","user","password","E:\Test1")
-    svnload = SVNDownload(sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4])
-    svnload.Download()
+    #ftpload = FTPDownload("127.0.0.1","user","password","E:\Test1")
+    ftpload = FTPDownload(sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4])
+    ftpload.Download()
 
 if __name__ == '__main__':
     main()

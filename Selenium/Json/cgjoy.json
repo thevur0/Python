@@ -1,0 +1,23 @@
+[
+    {
+        "url": "https://www.cgjoy.com/member.php?mod=logging&action=login"
+    },
+    {
+        "text": "thevur",
+        "name": "username"
+    },
+    {
+        "text": "Lhy123456",
+        "name": "password"
+    },
+    {
+        "click": " ",
+        "name": "loginsubmit"
+    },
+    {
+        "url": "https://www.cgjoy.com/forum.php?mod=forumdisplay&fid=199"
+    },
+    {
+        "sleep":30
+    }
+]
